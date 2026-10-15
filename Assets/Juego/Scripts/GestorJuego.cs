@@ -7,7 +7,7 @@ using UnityEngine.InputSystem;
 ///  1. Al iniciar trae los datos del usuario de la API (nombre y puntos guardados).
 ///  2. Clippy junta las bananas de Bonzi: cada una suma puntos a los del usuario.
 ///  3. Botón "Guardar puntaje" (o tecla G): guarda los puntos actuales en la BDD con la API.
-///  4. Si Bonzi deja a Clippy sin energía se pierden los puntos que no se guardaron.
+///  4. Si Bonzi deja a Clippy sin energía, el puntaje se guarda automáticamente.
 /// </summary>
 public class GestorJuego : MonoBehaviour
 {
@@ -34,6 +34,7 @@ public class GestorJuego : MonoBehaviour
     private float finMensaje = float.MaxValue;
     private bool mensajeEsError;
     private float siguienteBanana;
+    private string mensajeFinal; // texto de la pantalla "Bonzi te ganó"
     private readonly List<Banana> bananas = new List<Banana>();
     private Vector2 inicioClippy, inicioBonzi;
 
@@ -100,7 +101,7 @@ public class GestorJuego : MonoBehaviour
         if (teclado != null)
         {
             if (teclado.gKey.wasPressedThisFrame) GuardarPuntaje();
-            if (estado == Estado.Perdio && (teclado.rKey.wasPressedThisFrame || teclado.enterKey.wasPressedThisFrame)) Reiniciar();
+            if (estado == Estado.Perdio && !guardando && (teclado.rKey.wasPressedThisFrame || teclado.enterKey.wasPressedThisFrame)) Reiniciar();
         }
 
         if (estado == Estado.Jugando && Time.time >= siguienteBanana)
@@ -135,10 +136,25 @@ public class GestorJuego : MonoBehaviour
     {
         if (actual > 0f || estado != Estado.Jugando) return;
         estado = Estado.Perdio;
-        int perdidos = PuntosEnPartida;
-        puntos = puntosGuardados;
         mensaje = null;
-        Debug.Log($"[GestorJuego] Bonzi ganó. Puntos sin guardar perdidos: {perdidos}");
+        Debug.Log($"[GestorJuego] Bonzi ganó con {puntos} puntos. Guardando automáticamente...");
+
+        // Al perder, el puntaje se guarda solo en la base de datos
+        if (!HayUsuario)
+        {
+            mensajeFinal = $"Hiciste {puntos} puntos. Inicia sesión en la página web para guardarlos.";
+        }
+        else if (PuntosEnPartida == 0)
+        {
+            mensajeFinal = $"Tus puntos guardados: {puntosGuardados}";
+        }
+        else
+        {
+            mensajeFinal = "Guardando tu puntaje...";
+            Guardar(
+                datos => mensajeFinal = $"Tu puntaje se guardó automáticamente: {datos.puntos} puntos",
+                error => mensajeFinal = "No se pudo guardar tu puntaje: " + error);
+        }
     }
 
     public void GuardarPuntaje()
@@ -150,20 +166,27 @@ public class GestorJuego : MonoBehaviour
             return;
         }
 
-        guardando = true;
-        int aGuardar = puntos;
         MostrarMensaje("Guardando...", false, float.MaxValue);
-        StartCoroutine(api.GuardarPuntos(aGuardar,
+        Guardar(
+            datos => MostrarMensaje($"Puntaje guardado en la base de datos: {datos.puntos}", false, 3f),
+            error => MostrarMensaje("No se pudo guardar: " + error, true, 5f));
+    }
+
+    /// <summary>Envía los puntos actuales a la API (PUT /game/:id).</summary>
+    private void Guardar(System.Action<ApiJuego.DatosJugador> alTerminar, System.Action<string> alFallar)
+    {
+        guardando = true;
+        StartCoroutine(api.GuardarPuntos(puntos,
             datos =>
             {
                 guardando = false;
                 puntosGuardados = datos.puntos;
-                MostrarMensaje($"Puntaje guardado en la base de datos: {datos.puntos}", false, 3f);
+                alTerminar(datos);
             },
             error =>
             {
                 guardando = false;
-                MostrarMensaje("No se pudo guardar: " + error, true, 5f);
+                alFallar(error);
             }));
     }
 
@@ -176,7 +199,6 @@ public class GestorJuego : MonoBehaviour
         clippy.Reiniciar(inicioClippy);
         bonzi.Reiniciar(inicioBonzi);
         clippy.Energia.RecuperarEnergia(clippy.Energia.EnergiaMaxima);
-        puntos = puntosGuardados;
         EmpezarPartida();
     }
 
@@ -259,9 +281,10 @@ public class GestorJuego : MonoBehaviour
             Rectangulo(new Rect(0, 0, ancho, altoPantalla), new Color(0, 0, 0, 0.65f));
             float y = altoPantalla / 2f - 90f;
             GUI.Label(new Rect(0, y, ancho, 50), "¡Bonzi te ganó!", estiloTitulo);
-            GUI.Label(new Rect(ancho / 2f - 300, y + 55, 600, 60),
-                $"Se perdieron los puntos que no guardaste. Tus puntos guardados: {puntosGuardados}", estiloCentro);
+            GUI.Label(new Rect(ancho / 2f - 300, y + 55, 600, 60), mensajeFinal, estiloCentro);
+            GUI.enabled = !guardando;
             if (GUI.Button(new Rect(ancho / 2f - 110, y + 125, 220, 44), "Jugar otra vez (R)", estiloBoton)) Reiniciar();
+            GUI.enabled = true;
         }
     }
 }

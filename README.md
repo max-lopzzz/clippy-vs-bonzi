@@ -5,7 +5,7 @@ Videojuego 2D hecho en Unity 6 (6000.5.8f1) que se conecta a una REST-API.
 - **Clippy** (jugador) junta las bananas de **BonziBuddy** (+10 cada una) y esquiva sus cáscaras.
 - Al iniciar, el juego lee `user_id` de la URL y trae el nombre y los puntos con `GET /game/:id`.
 - **Guardar puntaje** (botón o tecla G) guarda los puntos con `PUT /game/:id` y body `{puntos}`.
-- Si Bonzi deja a Clippy sin energía se pierden los puntos que no se guardaron.
+- Si Bonzi deja a Clippy sin energía, el puntaje se guarda automáticamente con `PUT /game/:id`.
 
 ## Proyectos relacionados
 
