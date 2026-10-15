@@ -1,1 +1,6 @@
-https://github.com/max-lopzzz/clippy-vs-bonzi
+Proyecto: Clippy vs BonziBuddy (web + videojuego + REST-API)
+
+REST-API (Node.js + Express + SQL Server): https://github.com/max-lopzzz/practica-rest-api
+Página web (HTML + CSS + JS, incluye el juego en game/): https://github.com/max-lopzzz/Actividad---Pr-ctica-con-HTML
+GitHub Pages: https://max-lopzzz.github.io/Actividad---Pr-ctica-con-HTML/
+Videojuego (proyecto de Unity): https://github.com/max-lopzzz/clippy-vs-bonzi
