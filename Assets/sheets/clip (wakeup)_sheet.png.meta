@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 60bf2d624176248a492335d2524062f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5389993935469945073
+    second: clip (wakeup)_sheet_0
+  - first:
+      213: 1110054284631718331
+    second: clip (wakeup)_sheet_1
+  - first:
+      213: -5267643709974474345
+    second: clip (wakeup)_sheet_2
+  - first:
+      213: -1608841113094795038
+    second: clip (wakeup)_sheet_3
+  - first:
+      213: 5912094149573144133
+    second: clip (wakeup)_sheet_4
+  - first:
+      213: -6007775841658495583
+    second: clip (wakeup)_sheet_5
+  - first:
+      213: 1506580622271754121
+    second: clip (wakeup)_sheet_6
+  - first:
+      213: 8156633154664499173
+    second: clip (wakeup)_sheet_7
+  - first:
+      213: 8184954761390851744
+    second: clip (wakeup)_sheet_8
+  - first:
+      213: 557805749953451269
+    second: clip (wakeup)_sheet_9
+  - first:
+      213: 9046575911269221050
+    second: clip (wakeup)_sheet_10
+  - first:
+      213: -6242944620352738365
+    second: clip (wakeup)_sheet_11
+  - first:
+      213: 6025165477050966509
+    second: clip (wakeup)_sheet_12
+  - first:
+      213: 1837028189543008632
+    second: clip (wakeup)_sheet_13
+  - first:
+      213: 2766815604133908511
+    second: clip (wakeup)_sheet_14
+  - first:
+      213: 4963028229528447110
+    second: clip (wakeup)_sheet_15
+  - first:
+      213: 7832360641115933269
+    second: clip (wakeup)_sheet_16
+  - first:
+      213: 6790050466544667983
+    second: clip (wakeup)_sheet_17
+  - first:
+      213: -3008745639060308847
+    second: clip (wakeup)_sheet_18
+  - first:
+      213: 3437968675113775302
+    second: clip (wakeup)_sheet_19
+  - first:
+      213: 6208784034151189863
+    second: clip (wakeup)_sheet_20
+  - first:
+      213: 2844299195288482344
+    second: clip (wakeup)_sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f022394dea1dca40800000000000000
+      internalID: 5389993935469945073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 51
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9bfd49d74b76f00800000000000000
+      internalID: 1110054284631718331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 51
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79196a774f195e6b0800000000000000
+      internalID: -5267643709974474345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 51
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0d0f9188f3ca9e0800000000000000
+      internalID: -1608841113094795038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 51
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ee8ff2e4afb0250800000000000000
+      internalID: 5912094149573144133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 51
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad95cbd3b710aca0800000000000000
+      internalID: -6007775841658495583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 51
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98faefff71378e410800000000000000
+      internalID: 1506580622271754121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 51
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e783f273ae223170800000000000000
+      internalID: 8156633154664499173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 51
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6085f5dfcc69170800000000000000
+      internalID: 8184954761390851744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 51
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50555abcf59bdb700800000000000000
+      internalID: 557805749953451269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 51
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2cec84cd4eb8d70800000000000000
+      internalID: 9046575911269221050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 51
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb607fb1fa9c59a0800000000000000
+      internalID: -6242944620352738365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1e1942410bd9350800000000000000
+      internalID: 6025165477050966509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8790718c76f6e7910800000000000000
+      internalID: 1837028189543008632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10d86bf124b56620800000000000000
+      internalID: 2766815604133908511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 51
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688674721e730e440800000000000000
+      internalID: 4963028229528447110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 51
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a4776618222bc60800000000000000
+      internalID: 7832360641115933269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 51
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dce519cea1b3e50800000000000000
+      internalID: 6790050466544667983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 51
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cfd4448c9ce36d0800000000000000
+      internalID: -3008745639060308847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b31d7b4e16bf20800000000000000
+      internalID: 3437968675113775302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dc2bafe280a2650800000000000000
+      internalID: 6208784034151189863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (wakeup)_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5075
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82279126c0bf87720800000000000000
+      internalID: 2844299195288482344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clip (wakeup)_sheet_0: 5389993935469945073
+      clip (wakeup)_sheet_1: 1110054284631718331
+      clip (wakeup)_sheet_10: 9046575911269221050
+      clip (wakeup)_sheet_11: -6242944620352738365
+      clip (wakeup)_sheet_12: 6025165477050966509
+      clip (wakeup)_sheet_13: 1837028189543008632
+      clip (wakeup)_sheet_14: 2766815604133908511
+      clip (wakeup)_sheet_15: 4963028229528447110
+      clip (wakeup)_sheet_16: 7832360641115933269
+      clip (wakeup)_sheet_17: 6790050466544667983
+      clip (wakeup)_sheet_18: -3008745639060308847
+      clip (wakeup)_sheet_19: 3437968675113775302
+      clip (wakeup)_sheet_2: -5267643709974474345
+      clip (wakeup)_sheet_20: 6208784034151189863
+      clip (wakeup)_sheet_21: 2844299195288482344
+      clip (wakeup)_sheet_3: -1608841113094795038
+      clip (wakeup)_sheet_4: 5912094149573144133
+      clip (wakeup)_sheet_5: -6007775841658495583
+      clip (wakeup)_sheet_6: 1506580622271754121
+      clip (wakeup)_sheet_7: 8156633154664499173
+      clip (wakeup)_sheet_8: 8184954761390851744
+      clip (wakeup)_sheet_9: 557805749953451269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

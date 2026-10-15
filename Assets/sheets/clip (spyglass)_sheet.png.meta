@@ -1,0 +1,2522 @@
+fileFormatVersion: 2
+guid: 561d9f503835d437183523cd86ded43b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5657419027951155699
+    second: clip (spyglass)_sheet_0
+  - first:
+      213: 6633787969219435053
+    second: clip (spyglass)_sheet_1
+  - first:
+      213: -4627701469523176396
+    second: clip (spyglass)_sheet_2
+  - first:
+      213: 3454197892692070017
+    second: clip (spyglass)_sheet_3
+  - first:
+      213: -1584944980127427214
+    second: clip (spyglass)_sheet_4
+  - first:
+      213: 7299253096119307919
+    second: clip (spyglass)_sheet_5
+  - first:
+      213: 5212389625305063947
+    second: clip (spyglass)_sheet_6
+  - first:
+      213: 7442595883414555031
+    second: clip (spyglass)_sheet_7
+  - first:
+      213: 210113941535381577
+    second: clip (spyglass)_sheet_8
+  - first:
+      213: -1126250142693240408
+    second: clip (spyglass)_sheet_9
+  - first:
+      213: -1660646277862485713
+    second: clip (spyglass)_sheet_10
+  - first:
+      213: -6596957900708229292
+    second: clip (spyglass)_sheet_11
+  - first:
+      213: 3250213649981319019
+    second: clip (spyglass)_sheet_12
+  - first:
+      213: 5708293146232289385
+    second: clip (spyglass)_sheet_13
+  - first:
+      213: -8693192118473677839
+    second: clip (spyglass)_sheet_14
+  - first:
+      213: 1742917744831755283
+    second: clip (spyglass)_sheet_15
+  - first:
+      213: 6608603847047645488
+    second: clip (spyglass)_sheet_16
+  - first:
+      213: -9000133982360545049
+    second: clip (spyglass)_sheet_17
+  - first:
+      213: 7378103810900668102
+    second: clip (spyglass)_sheet_18
+  - first:
+      213: -2819772046451313765
+    second: clip (spyglass)_sheet_19
+  - first:
+      213: -6464601334659888334
+    second: clip (spyglass)_sheet_20
+  - first:
+      213: -4910671845363248760
+    second: clip (spyglass)_sheet_21
+  - first:
+      213: 1332745118371020945
+    second: clip (spyglass)_sheet_22
+  - first:
+      213: 7276643286678936057
+    second: clip (spyglass)_sheet_23
+  - first:
+      213: 991827367528485157
+    second: clip (spyglass)_sheet_24
+  - first:
+      213: -5437292941094944043
+    second: clip (spyglass)_sheet_25
+  - first:
+      213: -2697283202030329853
+    second: clip (spyglass)_sheet_26
+  - first:
+      213: 155196498033201754
+    second: clip (spyglass)_sheet_27
+  - first:
+      213: 7926825330476475986
+    second: clip (spyglass)_sheet_28
+  - first:
+      213: 8188033086848239355
+    second: clip (spyglass)_sheet_29
+  - first:
+      213: -7062467165550944623
+    second: clip (spyglass)_sheet_30
+  - first:
+      213: -1378425431587048442
+    second: clip (spyglass)_sheet_31
+  - first:
+      213: 1256746025290165034
+    second: clip (spyglass)_sheet_32
+  - first:
+      213: 8898917484890217216
+    second: clip (spyglass)_sheet_33
+  - first:
+      213: -6325068923953391077
+    second: clip (spyglass)_sheet_34
+  - first:
+      213: 4410239546417274836
+    second: clip (spyglass)_sheet_35
+  - first:
+      213: -5718232490037020638
+    second: clip (spyglass)_sheet_36
+  - first:
+      213: 89498766571902590
+    second: clip (spyglass)_sheet_37
+  - first:
+      213: 2508390021574248449
+    second: clip (spyglass)_sheet_38
+  - first:
+      213: -1153998673397299156
+    second: clip (spyglass)_sheet_39
+  - first:
+      213: 2112788270071255115
+    second: clip (spyglass)_sheet_40
+  - first:
+      213: 9062072750062805524
+    second: clip (spyglass)_sheet_41
+  - first:
+      213: 2018140207059846705
+    second: clip (spyglass)_sheet_42
+  - first:
+      213: 4135858661633263030
+    second: clip (spyglass)_sheet_43
+  - first:
+      213: 1202945633358692024
+    second: clip (spyglass)_sheet_44
+  - first:
+      213: 6595109068647561150
+    second: clip (spyglass)_sheet_45
+  - first:
+      213: 5932466813028119509
+    second: clip (spyglass)_sheet_46
+  - first:
+      213: -2640363890056617383
+    second: clip (spyglass)_sheet_47
+  - first:
+      213: 7257272813381887035
+    second: clip (spyglass)_sheet_48
+  - first:
+      213: -4270309181652680106
+    second: clip (spyglass)_sheet_49
+  - first:
+      213: 3552061719679936814
+    second: clip (spyglass)_sheet_50
+  - first:
+      213: 265090392990358714
+    second: clip (spyglass)_sheet_51
+  - first:
+      213: -644698043982700183
+    second: clip (spyglass)_sheet_52
+  - first:
+      213: 7052661362702993417
+    second: clip (spyglass)_sheet_53
+  - first:
+      213: 7891900439503352594
+    second: clip (spyglass)_sheet_54
+  - first:
+      213: -3496639112139199804
+    second: clip (spyglass)_sheet_55
+  - first:
+      213: 3403057946426116301
+    second: clip (spyglass)_sheet_56
+  - first:
+      213: -1738189234321743339
+    second: clip (spyglass)_sheet_57
+  - first:
+      213: -9057183338475806426
+    second: clip (spyglass)_sheet_58
+  - first:
+      213: -280056782324758606
+    second: clip (spyglass)_sheet_59
+  - first:
+      213: -1850311689327920882
+    second: clip (spyglass)_sheet_60
+  - first:
+      213: 3687717345096446440
+    second: clip (spyglass)_sheet_61
+  - first:
+      213: 656425413959561701
+    second: clip (spyglass)_sheet_62
+  - first:
+      213: 8332202759875979668
+    second: clip (spyglass)_sheet_63
+  - first:
+      213: 1680522431515068283
+    second: clip (spyglass)_sheet_64
+  - first:
+      213: -7001389834588378068
+    second: clip (spyglass)_sheet_65
+  - first:
+      213: 5001032935276741621
+    second: clip (spyglass)_sheet_66
+  - first:
+      213: 8970066077032101301
+    second: clip (spyglass)_sheet_67
+  - first:
+      213: -824078702474784009
+    second: clip (spyglass)_sheet_68
+  - first:
+      213: 5828676047863086491
+    second: clip (spyglass)_sheet_69
+  - first:
+      213: 8673782983154393270
+    second: clip (spyglass)_sheet_70
+  - first:
+      213: 8767820602739931492
+    second: clip (spyglass)_sheet_71
+  - first:
+      213: 1599264991760980047
+    second: clip (spyglass)_sheet_72
+  - first:
+      213: -8052512182681634812
+    second: clip (spyglass)_sheet_73
+  - first:
+      213: 5286523704538820648
+    second: clip (spyglass)_sheet_74
+  - first:
+      213: -7163972338193446434
+    second: clip (spyglass)_sheet_75
+  - first:
+      213: -5144719715691928881
+    second: clip (spyglass)_sheet_76
+  - first:
+      213: -2050134020224459472
+    second: clip (spyglass)_sheet_77
+  - first:
+      213: 458332585114454453
+    second: clip (spyglass)_sheet_78
+  - first:
+      213: 5718837638500354655
+    second: clip (spyglass)_sheet_79
+  - first:
+      213: -4883130722431826984
+    second: clip (spyglass)_sheet_80
+  - first:
+      213: -5464864412378176644
+    second: clip (spyglass)_sheet_81
+  - first:
+      213: 7214358367315364707
+    second: clip (spyglass)_sheet_82
+  - first:
+      213: 3031117654520925792
+    second: clip (spyglass)_sheet_83
+  - first:
+      213: -8425872168998186868
+    second: clip (spyglass)_sheet_84
+  - first:
+      213: 109070348907485126
+    second: clip (spyglass)_sheet_85
+  - first:
+      213: -8449444288604684957
+    second: clip (spyglass)_sheet_86
+  - first:
+      213: -2796984256708173549
+    second: clip (spyglass)_sheet_87
+  - first:
+      213: 5674385807149744881
+    second: clip (spyglass)_sheet_88
+  - first:
+      213: -6608431440727719745
+    second: clip (spyglass)_sheet_89
+  - first:
+      213: 9221333649922822574
+    second: clip (spyglass)_sheet_90
+  - first:
+      213: 5041362707887307307
+    second: clip (spyglass)_sheet_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 50
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f97092b1a0338e40800000000000000
+      internalID: 5657419027951155699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 50
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a959cb203ff0c50800000000000000
+      internalID: 6633787969219435053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 50
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4349486380a17cfb0800000000000000
+      internalID: -4627701469523176396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 50
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e40d9aea6cfef20800000000000000
+      internalID: 3454197892692070017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 50
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27557fe10f4210ae0800000000000000
+      internalID: -1584944980127427214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 47
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e8cdf84082c4560800000000000000
+      internalID: 7299253096119307919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 47
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b026d3f6fb0265840800000000000000
+      internalID: 5212389625305063947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 49
+        width: 130
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79985bdf589694760800000000000000
+      internalID: 7442595883414555031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 49
+        width: 122
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948d29f34897ae200800000000000000
+      internalID: 210113941535381577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 49
+        width: 122
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1598c5671ce50f0800000000000000
+      internalID: -1126250142693240408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 51
+        width: 111
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f219e6e320334f8e0800000000000000
+      internalID: -1660646277862485713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 52
+        width: 108
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f4412ddb5e274a0800000000000000
+      internalID: -6596957900708229292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 52
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67234328141b1d20800000000000000
+      internalID: 3250213649981319019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 51
+        width: 114
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968f8f66f5ee73f40800000000000000
+      internalID: 5708293146232289385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 48
+        width: 116
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3a626a3d39b5780800000000000000
+      internalID: -8693192118473677839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 47
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314fb6d5476103810800000000000000
+      internalID: 1742917744831755283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 49
+        width: 118
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0390e8c5f2a76bb50800000000000000
+      internalID: 6608603847047645488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 49
+        width: 118
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e85a7ae3d9191380800000000000000
+      internalID: -9000133982360545049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 49
+        width: 118
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cea0bc335a446660800000000000000
+      internalID: 7378103810900668102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4609
+        y: 48
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9371b773482ed8d0800000000000000
+      internalID: -2819772046451313765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 51
+        width: 110
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bc419465f1946a0800000000000000
+      internalID: -6464601334659888334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5105
+        y: 51
+        width: 110
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8819c9879f9c9dbb0800000000000000
+      internalID: -4910671845363248760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 5349
+        y: 47
+        width: 114
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19004acbf9cde7210800000000000000
+      internalID: 1332745118371020945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5593
+        y: 57
+        width: 122
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f99ab31484dbf460800000000000000
+      internalID: 7276643286678936057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5833
+        y: 57
+        width: 122
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521db006cbda3cd00800000000000000
+      internalID: 991827367528485157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 62
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d20c4ac0eada84b0800000000000000
+      internalID: -5437292941094944043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 62
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300aa54f733519ad0800000000000000
+      internalID: -2697283202030329853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 63
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5257a7846e572200800000000000000
+      internalID: 155196498033201754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 6801
+        y: 63
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2566e93d3adb10e60800000000000000
+      internalID: 7926825330476475986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 7041
+        y: 63
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf60cbed5bcb1a170800000000000000
+      internalID: 8188033086848239355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 7281
+        y: 62
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ed97f08831dfd90800000000000000
+      internalID: -7062467165550944623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 7521
+        y: 62
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604b3e88f59dedce0800000000000000
+      internalID: -1378425431587048442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 7761
+        y: 62
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bed4af9dbd07110800000000000000
+      internalID: 1256746025290165034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 8001
+        y: 62
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bd464dd4e4f7b70800000000000000
+      internalID: 8898917484890217216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 8241
+        y: 62
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a55e74357d838a0800000000000000
+      internalID: -6325068923953391077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 8481
+        y: 62
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfd4924081543d30800000000000000
+      internalID: 4410239546417274836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 8721
+        y: 62
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228fe38c8d1c4a0b0800000000000000
+      internalID: -5718232490037020638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 8961
+        y: 62
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e769a5d67a6fd3100800000000000000
+      internalID: 89498766571902590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 9201
+        y: 62
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10841124f679fc220800000000000000
+      internalID: 2508390021574248449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 9441
+        y: 62
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28c1e8125c2cffe0800000000000000
+      internalID: -1153998673397299156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 9679
+        y: 62
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b409533dcb1225d10800000000000000
+      internalID: 2112788270071255115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 9919
+        y: 62
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412ad3c3723f2cd70800000000000000
+      internalID: 9062072750062805524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 10159
+        y: 62
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1364cb463dfd10c10800000000000000
+      internalID: 2018140207059846705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 10397
+        y: 62
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b58fdf3a85856930800000000000000
+      internalID: 4135858661633263030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 10637
+        y: 62
+        width: 94
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beb3781ea8b1b010800000000000000
+      internalID: 1202945633358692024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 10877
+        y: 62
+        width: 94
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7f1bb61c8868b50800000000000000
+      internalID: 6595109068647561150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 11115
+        y: 62
+        width: 88
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3b558822b545250800000000000000
+      internalID: 5932466813028119509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 11355
+        y: 62
+        width: 76
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952286ff70b8b5bd0800000000000000
+      internalID: -2640363890056617383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 11595
+        y: 62
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b342abf4c2307b460800000000000000
+      internalID: 7257272813381887035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 11835
+        y: 62
+        width: 76
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652c082ac60dcb4c0800000000000000
+      internalID: -4270309181652680106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 12075
+        y: 62
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2929cd70557b4130800000000000000
+      internalID: 3552061719679936814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 12315
+        y: 62
+        width: 76
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc1f83de4acda300800000000000000
+      internalID: 265090392990358714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 12556
+        y: 62
+        width: 75
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961a5057b829d07f0800000000000000
+      internalID: -644698043982700183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 12795
+        y: 62
+        width: 76
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908c80d842610e160800000000000000
+      internalID: 7052661362702993417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 13036
+        y: 62
+        width: 75
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213b85bf2a9a58d60800000000000000
+      internalID: 7891900439503352594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 13275
+        y: 62
+        width: 76
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caa435e041797fc0800000000000000
+      internalID: -3496639112139199804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 13517
+        y: 62
+        width: 60
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc88cce0c271a3f20800000000000000
+      internalID: 3403057946426116301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 13745
+        y: 62
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51228d7c916b0e7e0800000000000000
+      internalID: -1738189234321743339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 13985
+        y: 62
+        width: 68
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621209c9dbb6e4280800000000000000
+      internalID: -9057183338475806426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 14205
+        y: 62
+        width: 86
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7089c17d90d1cf0800000000000000
+      internalID: -280056782324758606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 14445
+        y: 62
+        width: 86
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e093bd9625f5256e0800000000000000
+      internalID: -1850311689327920882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 14669
+        y: 62
+        width: 100
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1358213676d2330800000000000000
+      internalID: 3687717345096446440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 14898
+        y: 62
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e13994af671c1900800000000000000
+      internalID: 656425413959561701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 15138
+        y: 62
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499efe2a34ee1a370800000000000000
+      internalID: 8332202759875979668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 15378
+        y: 62
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7708876f3a625710800000000000000
+      internalID: 1680522431515068283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 15618
+        y: 62
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c24575a0116de90800000000000000
+      internalID: -7001389834588378068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 15858
+        y: 62
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3033145fc376540800000000000000
+      internalID: 5001032935276741621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 16098
+        y: 62
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5b74552931c7c70800000000000000
+      internalID: 8970066077032101301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 16338
+        y: 62
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2960849c84094f0800000000000000
+      internalID: -824078702474784009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 16578
+        y: 63
+        width: 111
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df4bfdbfd93e050800000000000000
+      internalID: 5828676047863086491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 16818
+        y: 62
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0eeb1eaa77f5870800000000000000
+      internalID: 8673782983154393270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 17059
+        y: 62
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4693aa0626e8da970800000000000000
+      internalID: 8767820602739931492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 17298
+        y: 62
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4891a7690bb13610800000000000000
+      internalID: 1599264991760980047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 17545
+        y: 62
+        width: 104
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40871c975dabf3090800000000000000
+      internalID: -8052512182681634812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 17785
+        y: 62
+        width: 104
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820f7b1dc418d5940800000000000000
+      internalID: 5286523704538820648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 18035
+        y: 63
+        width: 96
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed941416d15749c90800000000000000
+      internalID: -7163972338193446434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 18292
+        y: 63
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2eb3d2da84a98b0800000000000000
+      internalID: -5144719715691928881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 18532
+        y: 63
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dd39e78f57c83e0800000000000000
+      internalID: -2050134020224459472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 18797
+        y: 63
+        width: 60
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9cbbcce035c5600800000000000000
+      internalID: 458332585114454453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 19037
+        y: 62
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a82f258846d5f40800000000000000
+      internalID: 5718837638500354655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 19277
+        y: 62
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d387a9da72ab3cb0800000000000000
+      internalID: -4883130722431826984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 19519
+        y: 62
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73668265c6e824b0800000000000000
+      internalID: -5464864412378176644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 19759
+        y: 63
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b033636bc8e1460800000000000000
+      internalID: 7214358367315364707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 19999
+        y: 62
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e822e7271b01a20800000000000000
+      internalID: 3031117654520925792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 20238
+        y: 63
+        width: 111
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80530c87e9411b80800000000000000
+      internalID: -8425872168998186868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 20475
+        y: 64
+        width: 114
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7982a87ee738100800000000000000
+      internalID: 109070348907485126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 20715
+        y: 64
+        width: 114
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36db344cf2b8dba80800000000000000
+      internalID: -8449444288604684957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 20951
+        y: 64
+        width: 116
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ac8833ad1f29d0800000000000000
+      internalID: -2796984256708173549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 21171
+        y: 52
+        width: 134
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2cda1d3d77fbe40800000000000000
+      internalID: 5674385807149744881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 21411
+        y: 52
+        width: 134
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c6ec1e922a44a0800000000000000
+      internalID: -6608431440727719745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 21635
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1910f0912c8ff70800000000000000
+      internalID: 9221333649922822574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (spyglass)_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 21875
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a368b2ca486f540800000000000000
+      internalID: 5041362707887307307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clip (spyglass)_sheet_0: 5657419027951155699
+      clip (spyglass)_sheet_1: 6633787969219435053
+      clip (spyglass)_sheet_10: -1660646277862485713
+      clip (spyglass)_sheet_11: -6596957900708229292
+      clip (spyglass)_sheet_12: 3250213649981319019
+      clip (spyglass)_sheet_13: 5708293146232289385
+      clip (spyglass)_sheet_14: -8693192118473677839
+      clip (spyglass)_sheet_15: 1742917744831755283
+      clip (spyglass)_sheet_16: 6608603847047645488
+      clip (spyglass)_sheet_17: -9000133982360545049
+      clip (spyglass)_sheet_18: 7378103810900668102
+      clip (spyglass)_sheet_19: -2819772046451313765
+      clip (spyglass)_sheet_2: -4627701469523176396
+      clip (spyglass)_sheet_20: -6464601334659888334
+      clip (spyglass)_sheet_21: -4910671845363248760
+      clip (spyglass)_sheet_22: 1332745118371020945
+      clip (spyglass)_sheet_23: 7276643286678936057
+      clip (spyglass)_sheet_24: 991827367528485157
+      clip (spyglass)_sheet_25: -5437292941094944043
+      clip (spyglass)_sheet_26: -2697283202030329853
+      clip (spyglass)_sheet_27: 155196498033201754
+      clip (spyglass)_sheet_28: 7926825330476475986
+      clip (spyglass)_sheet_29: 8188033086848239355
+      clip (spyglass)_sheet_3: 3454197892692070017
+      clip (spyglass)_sheet_30: -7062467165550944623
+      clip (spyglass)_sheet_31: -1378425431587048442
+      clip (spyglass)_sheet_32: 1256746025290165034
+      clip (spyglass)_sheet_33: 8898917484890217216
+      clip (spyglass)_sheet_34: -6325068923953391077
+      clip (spyglass)_sheet_35: 4410239546417274836
+      clip (spyglass)_sheet_36: -5718232490037020638
+      clip (spyglass)_sheet_37: 89498766571902590
+      clip (spyglass)_sheet_38: 2508390021574248449
+      clip (spyglass)_sheet_39: -1153998673397299156
+      clip (spyglass)_sheet_4: -1584944980127427214
+      clip (spyglass)_sheet_40: 2112788270071255115
+      clip (spyglass)_sheet_41: 9062072750062805524
+      clip (spyglass)_sheet_42: 2018140207059846705
+      clip (spyglass)_sheet_43: 4135858661633263030
+      clip (spyglass)_sheet_44: 1202945633358692024
+      clip (spyglass)_sheet_45: 6595109068647561150
+      clip (spyglass)_sheet_46: 5932466813028119509
+      clip (spyglass)_sheet_47: -2640363890056617383
+      clip (spyglass)_sheet_48: 7257272813381887035
+      clip (spyglass)_sheet_49: -4270309181652680106
+      clip (spyglass)_sheet_5: 7299253096119307919
+      clip (spyglass)_sheet_50: 3552061719679936814
+      clip (spyglass)_sheet_51: 265090392990358714
+      clip (spyglass)_sheet_52: -644698043982700183
+      clip (spyglass)_sheet_53: 7052661362702993417
+      clip (spyglass)_sheet_54: 7891900439503352594
+      clip (spyglass)_sheet_55: -3496639112139199804
+      clip (spyglass)_sheet_56: 3403057946426116301
+      clip (spyglass)_sheet_57: -1738189234321743339
+      clip (spyglass)_sheet_58: -9057183338475806426
+      clip (spyglass)_sheet_59: -280056782324758606
+      clip (spyglass)_sheet_6: 5212389625305063947
+      clip (spyglass)_sheet_60: -1850311689327920882
+      clip (spyglass)_sheet_61: 3687717345096446440
+      clip (spyglass)_sheet_62: 656425413959561701
+      clip (spyglass)_sheet_63: 8332202759875979668
+      clip (spyglass)_sheet_64: 1680522431515068283
+      clip (spyglass)_sheet_65: -7001389834588378068
+      clip (spyglass)_sheet_66: 5001032935276741621
+      clip (spyglass)_sheet_67: 8970066077032101301
+      clip (spyglass)_sheet_68: -824078702474784009
+      clip (spyglass)_sheet_69: 5828676047863086491
+      clip (spyglass)_sheet_7: 7442595883414555031
+      clip (spyglass)_sheet_70: 8673782983154393270
+      clip (spyglass)_sheet_71: 8767820602739931492
+      clip (spyglass)_sheet_72: 1599264991760980047
+      clip (spyglass)_sheet_73: -8052512182681634812
+      clip (spyglass)_sheet_74: 5286523704538820648
+      clip (spyglass)_sheet_75: -7163972338193446434
+      clip (spyglass)_sheet_76: -5144719715691928881
+      clip (spyglass)_sheet_77: -2050134020224459472
+      clip (spyglass)_sheet_78: 458332585114454453
+      clip (spyglass)_sheet_79: 5718837638500354655
+      clip (spyglass)_sheet_8: 210113941535381577
+      clip (spyglass)_sheet_80: -4883130722431826984
+      clip (spyglass)_sheet_81: -5464864412378176644
+      clip (spyglass)_sheet_82: 7214358367315364707
+      clip (spyglass)_sheet_83: 3031117654520925792
+      clip (spyglass)_sheet_84: -8425872168998186868
+      clip (spyglass)_sheet_85: 109070348907485126
+      clip (spyglass)_sheet_86: -8449444288604684957
+      clip (spyglass)_sheet_87: -2796984256708173549
+      clip (spyglass)_sheet_88: 5674385807149744881
+      clip (spyglass)_sheet_89: -6608431440727719745
+      clip (spyglass)_sheet_9: -1126250142693240408
+      clip (spyglass)_sheet_90: 9221333649922822574
+      clip (spyglass)_sheet_91: 5041362707887307307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

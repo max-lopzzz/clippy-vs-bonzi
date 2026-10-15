@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 612e808c2ae4549728d4b786a89ce004
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2503793712520803327
+    second: clip (point right)_sheet_0
+  - first:
+      213: -4842399895424034777
+    second: clip (point right)_sheet_1
+  - first:
+      213: -1809798791411051127
+    second: clip (point right)_sheet_2
+  - first:
+      213: -4217313585429420543
+    second: clip (point right)_sheet_3
+  - first:
+      213: -3713173046096657289
+    second: clip (point right)_sheet_4
+  - first:
+      213: -4316096654203393025
+    second: clip (point right)_sheet_5
+  - first:
+      213: -8188005530691880027
+    second: clip (point right)_sheet_6
+  - first:
+      213: 7200117035104406956
+    second: clip (point right)_sheet_7
+  - first:
+      213: -8844082236989884482
+    second: clip (point right)_sheet_8
+  - first:
+      213: 3510677830279391980
+    second: clip (point right)_sheet_9
+  - first:
+      213: -5569265771091365131
+    second: clip (point right)_sheet_10
+  - first:
+      213: 3699998307816074355
+    second: clip (point right)_sheet_11
+  - first:
+      213: -2116167040894656581
+    second: clip (point right)_sheet_12
+  - first:
+      213: 7111903557932512878
+    second: clip (point right)_sheet_13
+  - first:
+      213: -7413135996508751893
+    second: clip (point right)_sheet_14
+  - first:
+      213: 3236647983343765612
+    second: clip (point right)_sheet_15
+  - first:
+      213: -8771588068481957338
+    second: clip (point right)_sheet_16
+  - first:
+      213: 6624966026258909082
+    second: clip (point right)_sheet_17
+  - first:
+      213: 8897008233380383344
+    second: clip (point right)_sheet_18
+  - first:
+      213: 886744521727127191
+    second: clip (point right)_sheet_19
+  - first:
+      213: 6020215300450647355
+    second: clip (point right)_sheet_20
+  - first:
+      213: -1305346522138408261
+    second: clip (point right)_sheet_21
+  - first:
+      213: 2831802146903955664
+    second: clip (point right)_sheet_22
+  - first:
+      213: 4638894276259704575
+    second: clip (point right)_sheet_23
+  - first:
+      213: 1419662505204043895
+    second: clip (point right)_sheet_24
+  - first:
+      213: -9142049547308488273
+    second: clip (point right)_sheet_25
+  - first:
+      213: -871931810514712323
+    second: clip (point right)_sheet_26
+  - first:
+      213: -8780814405759473572
+    second: clip (point right)_sheet_27
+  - first:
+      213: -6994230675957081590
+    second: clip (point right)_sheet_28
+  - first:
+      213: 7410031602753101695
+    second: clip (point right)_sheet_29
+  - first:
+      213: 3878856071411999006
+    second: clip (point right)_sheet_30
+  - first:
+      213: -6358809016925766746
+    second: clip (point right)_sheet_31
+  - first:
+      213: 4546173274935372154
+    second: clip (point right)_sheet_32
+  - first:
+      213: 7387533178743357786
+    second: clip (point right)_sheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clip (point right)_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3b8a9ad134fb220800000000000000
+      internalID: 2503793712520803327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7289cd483f65cccb0800000000000000
+      internalID: -4842399895424034777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 51
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9855303869d42e6e0800000000000000
+      internalID: -1809798791411051127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 51
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106ec0a63a71975c0800000000000000
+      internalID: -4217313585429420543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7748adda9c8287cc0800000000000000
+      internalID: -3713173046096657289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb64fde5f42a14c0800000000000000
+      internalID: -4316096654203393025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab3d2c0a5c5e5e80800000000000000
+      internalID: -8188005530691880027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad03aaab44fbe360800000000000000
+      internalID: 7200117035104406956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb730eb3012834580800000000000000
+      internalID: -8844082236989884482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea64a2e2ee68b030800000000000000
+      internalID: 3510677830279391980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f27b56d94ef5b2b0800000000000000
+      internalID: -5569265771091365131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c6ce68bd8095330800000000000000
+      internalID: 3699998307816074355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf951ac94dd1a2e0800000000000000
+      internalID: -2116167040894656581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66776ffa9e82b260800000000000000
+      internalID: 7111903557932512878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be73f6076104f1990800000000000000
+      internalID: -7413135996508751893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68803e3132eaec20800000000000000
+      internalID: 3236647983343765612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6220416202f054680800000000000000
+      internalID: -8771588068481957338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a978134108b90fb50800000000000000
+      internalID: 6624966026258909082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a0d5299d5887b70800000000000000
+      internalID: 8897008233380383344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ea110c1795e4c00800000000000000
+      internalID: 886744521727127191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d7bb65be91c8350800000000000000
+      internalID: 6020215300450647355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5075
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba062f014a72ede0800000000000000
+      internalID: -1305346522138408261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d816609c059c4720800000000000000
+      internalID: 2831802146903955664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5555
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe6d0f24c9a06040800000000000000
+      internalID: 4638894276259704575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770d0abd687a3b310800000000000000
+      internalID: 1419662505204043895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa928a59f5ae02180800000000000000
+      internalID: -9142049547308488273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df848e553a646e3f0800000000000000
+      internalID: -871931810514712323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6515
+        y: 50
+        width: 154
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58e21a12d7442680800000000000000
+      internalID: -8780814405759473572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 51
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a107ad1408fee90800000000000000
+      internalID: -6994230675957081590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 50
+        width: 154
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f54809b78b5d660800000000000000
+      internalID: 7410031602753101695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 7235
+        y: 50
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11216fbb0774d530800000000000000
+      internalID: 3878856071411999006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 50
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abb697b3e8f0c7a0800000000000000
+      internalID: -6358809016925766746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 7715
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79a5e3c180471f30800000000000000
+      internalID: 4546173274935372154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point right)_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 7955
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a510965094ac58660800000000000000
+      internalID: 7387533178743357786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clip (point right)_sheet_0: 2503793712520803327
+      clip (point right)_sheet_1: -4842399895424034777
+      clip (point right)_sheet_10: -5569265771091365131
+      clip (point right)_sheet_11: 3699998307816074355
+      clip (point right)_sheet_12: -2116167040894656581
+      clip (point right)_sheet_13: 7111903557932512878
+      clip (point right)_sheet_14: -7413135996508751893
+      clip (point right)_sheet_15: 3236647983343765612
+      clip (point right)_sheet_16: -8771588068481957338
+      clip (point right)_sheet_17: 6624966026258909082
+      clip (point right)_sheet_18: 8897008233380383344
+      clip (point right)_sheet_19: 886744521727127191
+      clip (point right)_sheet_2: -1809798791411051127
+      clip (point right)_sheet_20: 6020215300450647355
+      clip (point right)_sheet_21: -1305346522138408261
+      clip (point right)_sheet_22: 2831802146903955664
+      clip (point right)_sheet_23: 4638894276259704575
+      clip (point right)_sheet_24: 1419662505204043895
+      clip (point right)_sheet_25: -9142049547308488273
+      clip (point right)_sheet_26: -871931810514712323
+      clip (point right)_sheet_27: -8780814405759473572
+      clip (point right)_sheet_28: -6994230675957081590
+      clip (point right)_sheet_29: 7410031602753101695
+      clip (point right)_sheet_3: -4217313585429420543
+      clip (point right)_sheet_30: 3878856071411999006
+      clip (point right)_sheet_31: -6358809016925766746
+      clip (point right)_sheet_32: 4546173274935372154
+      clip (point right)_sheet_33: 7387533178743357786
+      clip (point right)_sheet_4: -3713173046096657289
+      clip (point right)_sheet_5: -4316096654203393025
+      clip (point right)_sheet_6: -8188005530691880027
+      clip (point right)_sheet_7: 7200117035104406956
+      clip (point right)_sheet_8: -8844082236989884482
+      clip (point right)_sheet_9: 3510677830279391980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

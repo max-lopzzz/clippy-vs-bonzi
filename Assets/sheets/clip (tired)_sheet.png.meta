@@ -1,0 +1,3718 @@
+fileFormatVersion: 2
+guid: 5d31f95e7ff964b3092af4b8e9c2ef9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -430636182018232565
+    second: clip (tired)_sheet_0
+  - first:
+      213: -8585177165078513374
+    second: clip (tired)_sheet_1
+  - first:
+      213: -1997185491648230965
+    second: clip (tired)_sheet_2
+  - first:
+      213: 1026286038452423387
+    second: clip (tired)_sheet_3
+  - first:
+      213: 629694690926461737
+    second: clip (tired)_sheet_4
+  - first:
+      213: -5624598577409183587
+    second: clip (tired)_sheet_5
+  - first:
+      213: -6580207319765553173
+    second: clip (tired)_sheet_6
+  - first:
+      213: 5721841597933299158
+    second: clip (tired)_sheet_7
+  - first:
+      213: 2370175529090323181
+    second: clip (tired)_sheet_8
+  - first:
+      213: -45240162138091192
+    second: clip (tired)_sheet_9
+  - first:
+      213: -3704726765519732126
+    second: clip (tired)_sheet_10
+  - first:
+      213: 4913908895687573600
+    second: clip (tired)_sheet_11
+  - first:
+      213: -5192851081957801795
+    second: clip (tired)_sheet_12
+  - first:
+      213: -687997766207936911
+    second: clip (tired)_sheet_13
+  - first:
+      213: 6762283832034312800
+    second: clip (tired)_sheet_14
+  - first:
+      213: 4592584894022395649
+    second: clip (tired)_sheet_15
+  - first:
+      213: -5842792907522238540
+    second: clip (tired)_sheet_16
+  - first:
+      213: -7834907159844542051
+    second: clip (tired)_sheet_17
+  - first:
+      213: -4732581041812063686
+    second: clip (tired)_sheet_18
+  - first:
+      213: -2110756859696026335
+    second: clip (tired)_sheet_19
+  - first:
+      213: 7546364658653083499
+    second: clip (tired)_sheet_20
+  - first:
+      213: 1690056081810374841
+    second: clip (tired)_sheet_21
+  - first:
+      213: -3193579065300937764
+    second: clip (tired)_sheet_22
+  - first:
+      213: 7620720234903812804
+    second: clip (tired)_sheet_23
+  - first:
+      213: -3935386521935069415
+    second: clip (tired)_sheet_24
+  - first:
+      213: 3795187845977098631
+    second: clip (tired)_sheet_25
+  - first:
+      213: 2644351150683868910
+    second: clip (tired)_sheet_26
+  - first:
+      213: -977113731300905892
+    second: clip (tired)_sheet_27
+  - first:
+      213: -7634548768425103983
+    second: clip (tired)_sheet_28
+  - first:
+      213: -4055256940781328585
+    second: clip (tired)_sheet_29
+  - first:
+      213: -3770372196949019243
+    second: clip (tired)_sheet_30
+  - first:
+      213: -5805781272074674884
+    second: clip (tired)_sheet_31
+  - first:
+      213: -6913047549079733865
+    second: clip (tired)_sheet_32
+  - first:
+      213: 537084212450578771
+    second: clip (tired)_sheet_33
+  - first:
+      213: -7472624094506580676
+    second: clip (tired)_sheet_34
+  - first:
+      213: -6668525984382998923
+    second: clip (tired)_sheet_35
+  - first:
+      213: 527845097599651384
+    second: clip (tired)_sheet_36
+  - first:
+      213: -5335508377965041761
+    second: clip (tired)_sheet_37
+  - first:
+      213: 8924721087372772729
+    second: clip (tired)_sheet_38
+  - first:
+      213: -8430011244371656941
+    second: clip (tired)_sheet_39
+  - first:
+      213: -2726995312242813319
+    second: clip (tired)_sheet_40
+  - first:
+      213: -2807101932820214772
+    second: clip (tired)_sheet_41
+  - first:
+      213: -7473991071336941089
+    second: clip (tired)_sheet_42
+  - first:
+      213: 2345789482142990030
+    second: clip (tired)_sheet_43
+  - first:
+      213: 7524204485978147783
+    second: clip (tired)_sheet_44
+  - first:
+      213: 1715666376384894763
+    second: clip (tired)_sheet_45
+  - first:
+      213: -7178850027475927972
+    second: clip (tired)_sheet_46
+  - first:
+      213: -8761165412310240421
+    second: clip (tired)_sheet_47
+  - first:
+      213: 1150033759163776655
+    second: clip (tired)_sheet_48
+  - first:
+      213: -6076335838087936488
+    second: clip (tired)_sheet_49
+  - first:
+      213: 565715632785773913
+    second: clip (tired)_sheet_50
+  - first:
+      213: 2133971892433110086
+    second: clip (tired)_sheet_51
+  - first:
+      213: -925232260163016982
+    second: clip (tired)_sheet_52
+  - first:
+      213: -7229539482692987337
+    second: clip (tired)_sheet_53
+  - first:
+      213: 3495901549339931146
+    second: clip (tired)_sheet_54
+  - first:
+      213: -8415304947049166171
+    second: clip (tired)_sheet_55
+  - first:
+      213: -62801993014798933
+    second: clip (tired)_sheet_56
+  - first:
+      213: -6108998915375521871
+    second: clip (tired)_sheet_57
+  - first:
+      213: 4051687674357753672
+    second: clip (tired)_sheet_58
+  - first:
+      213: -1716536820090904553
+    second: clip (tired)_sheet_59
+  - first:
+      213: 3914365455051261314
+    second: clip (tired)_sheet_60
+  - first:
+      213: -7608093667162190201
+    second: clip (tired)_sheet_61
+  - first:
+      213: -4289873272955555978
+    second: clip (tired)_sheet_62
+  - first:
+      213: -5935980651487880453
+    second: clip (tired)_sheet_63
+  - first:
+      213: -3189456783284829401
+    second: clip (tired)_sheet_64
+  - first:
+      213: 6476676010936784386
+    second: clip (tired)_sheet_65
+  - first:
+      213: 6905196524524343066
+    second: clip (tired)_sheet_66
+  - first:
+      213: 9041683433789912581
+    second: clip (tired)_sheet_67
+  - first:
+      213: -6823238426587009150
+    second: clip (tired)_sheet_68
+  - first:
+      213: -8776431170024062912
+    second: clip (tired)_sheet_69
+  - first:
+      213: 4885287192519760882
+    second: clip (tired)_sheet_70
+  - first:
+      213: -419214095073371201
+    second: clip (tired)_sheet_71
+  - first:
+      213: -7688455832303487264
+    second: clip (tired)_sheet_72
+  - first:
+      213: -8039368420450885981
+    second: clip (tired)_sheet_73
+  - first:
+      213: 6606412110239159018
+    second: clip (tired)_sheet_74
+  - first:
+      213: 8270178148622065096
+    second: clip (tired)_sheet_75
+  - first:
+      213: 3149911017084880264
+    second: clip (tired)_sheet_76
+  - first:
+      213: 1001110934123018742
+    second: clip (tired)_sheet_77
+  - first:
+      213: -6362252066757900421
+    second: clip (tired)_sheet_78
+  - first:
+      213: 1020179733264248768
+    second: clip (tired)_sheet_79
+  - first:
+      213: -2544955731188898526
+    second: clip (tired)_sheet_80
+  - first:
+      213: -6181017524885141983
+    second: clip (tired)_sheet_81
+  - first:
+      213: 4038877979537080871
+    second: clip (tired)_sheet_82
+  - first:
+      213: 3803294312493039498
+    second: clip (tired)_sheet_83
+  - first:
+      213: -8840398344300825350
+    second: clip (tired)_sheet_84
+  - first:
+      213: -4553751334906437975
+    second: clip (tired)_sheet_85
+  - first:
+      213: 3316797266051977380
+    second: clip (tired)_sheet_86
+  - first:
+      213: -1654377490510630512
+    second: clip (tired)_sheet_87
+  - first:
+      213: 2391450488455810786
+    second: clip (tired)_sheet_88
+  - first:
+      213: -9181285326172734920
+    second: clip (tired)_sheet_89
+  - first:
+      213: -1787676042597761052
+    second: clip (tired)_sheet_90
+  - first:
+      213: -4845078324475115657
+    second: clip (tired)_sheet_91
+  - first:
+      213: -2062647946967840149
+    second: clip (tired)_sheet_92
+  - first:
+      213: -6455621086586408461
+    second: clip (tired)_sheet_93
+  - first:
+      213: -3603558322783395010
+    second: clip (tired)_sheet_94
+  - first:
+      213: -7157418889860486271
+    second: clip (tired)_sheet_95
+  - first:
+      213: 5456334088000315559
+    second: clip (tired)_sheet_96
+  - first:
+      213: 2410676016756537185
+    second: clip (tired)_sheet_97
+  - first:
+      213: -4255683407519057459
+    second: clip (tired)_sheet_98
+  - first:
+      213: 4501496656958361390
+    second: clip (tired)_sheet_99
+  - first:
+      213: 7467358383368026347
+    second: clip (tired)_sheet_100
+  - first:
+      213: -3848330318286534833
+    second: clip (tired)_sheet_101
+  - first:
+      213: 6353046613439074047
+    second: clip (tired)_sheet_102
+  - first:
+      213: -1428996015640379920
+    second: clip (tired)_sheet_103
+  - first:
+      213: -4556409439260647321
+    second: clip (tired)_sheet_104
+  - first:
+      213: 2458782891878316604
+    second: clip (tired)_sheet_105
+  - first:
+      213: 8943774360068726868
+    second: clip (tired)_sheet_106
+  - first:
+      213: 7326367259801296808
+    second: clip (tired)_sheet_107
+  - first:
+      213: -1688062244750055394
+    second: clip (tired)_sheet_108
+  - first:
+      213: -6704661652667513955
+    second: clip (tired)_sheet_109
+  - first:
+      213: 4697607495501420384
+    second: clip (tired)_sheet_110
+  - first:
+      213: 2065412614594290411
+    second: clip (tired)_sheet_111
+  - first:
+      213: 5275400226592126759
+    second: clip (tired)_sheet_112
+  - first:
+      213: -3447785142226106917
+    second: clip (tired)_sheet_113
+  - first:
+      213: -7073242549193239370
+    second: clip (tired)_sheet_114
+  - first:
+      213: 6805949508742540658
+    second: clip (tired)_sheet_115
+  - first:
+      213: 2490472563045562799
+    second: clip (tired)_sheet_116
+  - first:
+      213: -6345718622326067425
+    second: clip (tired)_sheet_117
+  - first:
+      213: -3163517100980176183
+    second: clip (tired)_sheet_118
+  - first:
+      213: 4139210632277879949
+    second: clip (tired)_sheet_119
+  - first:
+      213: -8787341766100729485
+    second: clip (tired)_sheet_120
+  - first:
+      213: -3610391428459630676
+    second: clip (tired)_sheet_121
+  - first:
+      213: -2226096731146280314
+    second: clip (tired)_sheet_122
+  - first:
+      213: 5710682645983027491
+    second: clip (tired)_sheet_123
+  - first:
+      213: 1301792078770241738
+    second: clip (tired)_sheet_124
+  - first:
+      213: -3634921930278103632
+    second: clip (tired)_sheet_125
+  - first:
+      213: 8607898867480874773
+    second: clip (tired)_sheet_126
+  - first:
+      213: -1719603248222098944
+    second: clip (tired)_sheet_127
+  - first:
+      213: -6170622211944005609
+    second: clip (tired)_sheet_128
+  - first:
+      213: 2198253302019589993
+    second: clip (tired)_sheet_129
+  - first:
+      213: -3137248880582831052
+    second: clip (tired)_sheet_130
+  - first:
+      213: -4040830475266504286
+    second: clip (tired)_sheet_131
+  - first:
+      213: -3670905840768636951
+    second: clip (tired)_sheet_132
+  - first:
+      213: 8512071858486073650
+    second: clip (tired)_sheet_133
+  - first:
+      213: 2694951450130419235
+    second: clip (tired)_sheet_134
+  - first:
+      213: 8341881646843986625
+    second: clip (tired)_sheet_135
+  - first:
+      213: 7489318074529033476
+    second: clip (tired)_sheet_136
+  - first:
+      213: -7526361090505220397
+    second: clip (tired)_sheet_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clip (tired)_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f6f5f8ca2160af0800000000000000
+      internalID: -430636182018232565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22933b5cad25bd880800000000000000
+      internalID: -8585177165078513374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc94ebb70629844e0800000000000000
+      internalID: -1997185491648230965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda46e7e6b91e3e00800000000000000
+      internalID: 1026286038452423387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9230f913cff1db800800000000000000
+      internalID: 629694690926461737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90bb5de46961f1b0800000000000000
+      internalID: -5624598577409183587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe2fc5e486ea4a0800000000000000
+      internalID: -6580207319765553173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d52ed12e90186f40800000000000000
+      internalID: 5721841597933299158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de290c2061e84e020800000000000000
+      internalID: 2370175529090323181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8419d2eef464f5ff0800000000000000
+      internalID: -45240162138091192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262805f92aa269cc0800000000000000
+      internalID: -3704726765519732126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060071a0b16b13440800000000000000
+      internalID: 4913908895687573600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0076034794fe7b0800000000000000
+      internalID: -5192851081957801795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176e9e24dadb376f0800000000000000
+      internalID: -687997766207936911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062c5ce215578dd50800000000000000
+      internalID: 6762283832034312800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107a709e0a32cbf30800000000000000
+      internalID: 4592584894022395649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b717fa9eca3aeea0800000000000000
+      internalID: -5842792907522238540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d992d410371d44390800000000000000
+      internalID: -7834907159844542051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a3b04ed9e725eb0800000000000000
+      internalID: -4732581041812063686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 51
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d6992c1d515b2e0800000000000000
+      internalID: -2110756859696026335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 51
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b673498bca21ab860800000000000000
+      internalID: 7546364658653083499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5075
+        y: 51
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0cbc65d09447710800000000000000
+      internalID: 1690056081810374841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd31d9aa2c02ea3d0800000000000000
+      internalID: -3193579065300937764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5555
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cab2166dac32c960800000000000000
+      internalID: 7620720234903812804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f33321fc2b269c0800000000000000
+      internalID: -3935386521935069415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7894857fc373ba430800000000000000
+      internalID: 3795187845977098631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee48e57c5f92b420800000000000000
+      internalID: 2644351150683868910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6515
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c27a40d389072f0800000000000000
+      internalID: -977113731300905892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d20ad3852ac0690800000000000000
+      internalID: -7634548768425103983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737aacb4c45d8b7c0800000000000000
+      internalID: -4055256940781328585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 7235
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59538d19672fcabc0800000000000000
+      internalID: -3770372196949019243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d9f5281b8bd6fa0800000000000000
+      internalID: -5805781272074674884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 7715
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799b7b981ebef00a0800000000000000
+      internalID: -6913047549079733865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 7955
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3515691ee3b147700800000000000000
+      internalID: 537084212450578771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 8195
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3509ea4af7eb4890800000000000000
+      internalID: -7472624094506580676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 8435
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576a365d2f2a473a0800000000000000
+      internalID: -6668525984382998923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 8675
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ecbd2d158435700800000000000000
+      internalID: 527845097599651384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 8915
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97e543266774f5b0800000000000000
+      internalID: -5335508377965041761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 9155
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975ca443b8afadb70800000000000000
+      internalID: 8924721087372772729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 9395
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fbda6ff65920b80800000000000000
+      internalID: -8430011244371656941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 9635
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9769c953634c72ad0800000000000000
+      internalID: -2726995312242813319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 9875
+        y: 50
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c40fd2aab2b09d0800000000000000
+      internalID: -2807101932820214772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 10115
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9358238bc074890800000000000000
+      internalID: -7473991071336941089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 10355
+        y: 51
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecefaf00b1bed8020800000000000000
+      internalID: 2345789482142990030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 10595
+        y: 51
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbc0247d185b6860800000000000000
+      internalID: 7524204485978147783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 10835
+        y: 51
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27d085ba754fc710800000000000000
+      internalID: 1715666376384894763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 11075
+        y: 51
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c7e786fe99f5c90800000000000000
+      internalID: -7178850027475927972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 11315
+        y: 51
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b533fc4e9761a6680800000000000000
+      internalID: -8761165412310240421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 11555
+        y: 51
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ef9ae5c9db5ff00800000000000000
+      internalID: 1150033759163776655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 11795
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8160bc2cfb48caba0800000000000000
+      internalID: -6076335838087936488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 12035
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955d418ee53d9d700800000000000000
+      internalID: 565715632785773913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 12275
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644c42141246d9d10800000000000000
+      internalID: 2133971892433110086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 12515
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae66046592ae823f0800000000000000
+      internalID: -925232260163016982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 12755
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7365c6ce4248bab90800000000000000
+      internalID: -7229539482692987337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 12995
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02f422efefe38030800000000000000
+      internalID: 3495901549339931146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 13235
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa0c82acb4d63b80800000000000000
+      internalID: -8415304947049166171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 13475
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba59a2b8be1e02ff0800000000000000
+      internalID: -62801993014798933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 13715
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf9bc37ad9783ba0800000000000000
+      internalID: -6108998915375521871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 13955
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8472cea197c7a3830800000000000000
+      internalID: 4051687674357753672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 14195
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7106a925bd2ad28e0800000000000000
+      internalID: -1716536820090904553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 14435
+        y: 50
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285046564ae925630800000000000000
+      internalID: 3914365455051261314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 14675
+        y: 50
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e06ee7e1f9a6690800000000000000
+      internalID: -7608093667162190201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 14915
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67faa0aacfe4774c0800000000000000
+      internalID: -4289873272955555978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 15155
+        y: 50
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa19723c092f9da0800000000000000
+      internalID: -5935980651487880453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 15395
+        y: 50
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72309dd34f5ccb3d0800000000000000
+      internalID: -3189456783284829401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 15635
+        y: 50
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2065e2d5486c1e950800000000000000
+      internalID: 6476676010936784386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 15875
+        y: 50
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f098c57af24df50800000000000000
+      internalID: 6905196524524343066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 16115
+        y: 50
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506f49a9d238a7d70800000000000000
+      internalID: 9041683433789912581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 16355
+        y: 50
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f6c755dccfe41a0800000000000000
+      internalID: -6823238426587009150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 16595
+        y: 50
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040cc03b95ad33680800000000000000
+      internalID: -8776431170024062912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 16835
+        y: 50
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbd7e771d60cc340800000000000000
+      internalID: 4885287192519760882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 17075
+        y: 50
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb905a6007ae2af0800000000000000
+      internalID: -419214095073371201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 17315
+        y: 50
+        width: 154
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6354cd72e1d4590800000000000000
+      internalID: -7688455832303487264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 17555
+        y: 50
+        width: 154
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae1888140d6e6090800000000000000
+      internalID: -8039368420450885981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 17795
+        y: 50
+        width: 154
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2d4aedfc0beab50800000000000000
+      internalID: 6606412110239159018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 18035
+        y: 51
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdd0d9753395c270800000000000000
+      internalID: 8270178148622065096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 18275
+        y: 51
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8850f6f816bb6bb20800000000000000
+      internalID: 3149911017084880264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 18515
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f979292719a4ed00800000000000000
+      internalID: 1001110934123018742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 18755
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b778665347db4b7a0800000000000000
+      internalID: -6362252066757900421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 18995
+        y: 51
+        width: 154
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfa440ff08682e00800000000000000
+      internalID: 1020179733264248768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 19235
+        y: 51
+        width: 154
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22524690f308eacd0800000000000000
+      internalID: -2544955731188898526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 19475
+        y: 50
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126c1ce3f4d983aa0800000000000000
+      internalID: -6181017524885141983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 19715
+        y: 50
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722847d9f1afc0830800000000000000
+      internalID: 4038877979537080871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 19955
+        y: 50
+        width: 154
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f3968c60408c430800000000000000
+      internalID: 3803294312493039498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 20268
+        y: 178
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af47ff65b88905580800000000000000
+      internalID: -8840398344300825350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 20508
+        y: 178
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aed077a943ddc0c0800000000000000
+      internalID: -4553751334906437975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 20675
+        y: 50
+        width: 154
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0d3035a81a70e20800000000000000
+      internalID: 3316797266051977380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 20745
+        y: 186
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09136b900787a09e0800000000000000
+      internalID: -1654377490510630512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 20915
+        y: 50
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eec75e7c83203120800000000000000
+      internalID: 2391450488455810786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 20985
+        y: 183
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ab7ffe3a5859080800000000000000
+      internalID: -9181285326172734920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 21155
+        y: 50
+        width: 154
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4effb7b5c16e037e0800000000000000
+      internalID: -1787676042597761052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 21225
+        y: 183
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77747b82fe2d2ccb0800000000000000
+      internalID: -4845078324475115657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 31235
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a0b40ee900063e0800000000000000
+      internalID: -2062647946967840149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 31475
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1fe7933d60966a0800000000000000
+      internalID: -6455621086586408461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 31715
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33e7134cc69dfdc0800000000000000
+      internalID: -3603558322783395010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 20195
+        y: 50
+        width: 154
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18be139f07dbbac90800000000000000
+      internalID: -7157418889860486271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 20435
+        y: 50
+        width: 154
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a02d13b1fac8bb40800000000000000
+      internalID: 5456334088000315559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 21395
+        y: 51
+        width: 154
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167b35f9011747120800000000000000
+      internalID: 2410676016756537185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 21635
+        y: 50
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc97d4a0d76c0f4c0800000000000000
+      internalID: -4255683407519057459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 21875
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f8c9b0c57887e30800000000000000
+      internalID: 4501496656958361390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 22115
+        y: 51
+        width: 154
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8bf2bc2e261a760800000000000000
+      internalID: 7467358383368026347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 22355
+        y: 51
+        width: 154
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f474a2007fbf79ac0800000000000000
+      internalID: -3848330318286534833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 22595
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffec88b2c3e8a2850800000000000000
+      internalID: 6353046613439074047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 22835
+        y: 50
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd7e46e1bf2b2ce0800000000000000
+      internalID: -1428996015640379920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 23075
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760e1a181c164c0c0800000000000000
+      internalID: -4556409439260647321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 23315
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3af632530a5f1220800000000000000
+      internalID: 2458782891878316604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 23555
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450a423f46bae1c70800000000000000
+      internalID: 8943774360068726868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 23795
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af128eb43c7ca560800000000000000
+      internalID: 7326367259801296808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 24035
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18ace6055cc298e0800000000000000
+      internalID: -1688062244750055394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 24275
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93c19defb144f2a0800000000000000
+      internalID: -6704661652667513955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 24515
+        y: 50
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067139fc021413140800000000000000
+      internalID: 4697607495501420384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 24755
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e08774d1d9ac10800000000000000
+      internalID: 2065412614594290411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 24995
+        y: 50
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727f90a4e8cf53940800000000000000
+      internalID: 5275400226592126759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 25235
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd54eb72ea10720d0800000000000000
+      internalID: -3447785142226106917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 25475
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4982d806bc6dd90800000000000000
+      internalID: -7073242549193239370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 25715
+        y: 50
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27de7dbc407937e50800000000000000
+      internalID: 6805949508742540658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 25955
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9ff2bd99fef8220800000000000000
+      internalID: 2490472563045562799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 26195
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f6ca7b88a7fe7a0800000000000000
+      internalID: -6345718622326067425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 26435
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caf33b25fde814d0800000000000000
+      internalID: -3163517100980176183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 26675
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c617bb32e617930800000000000000
+      internalID: 4139210632277879949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 26915
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371cc9798371d0680800000000000000
+      internalID: -8787341766100729485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 27155
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf6c8edf1055edc0800000000000000
+      internalID: -3610391428459630676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 27395
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6822e5041d05b11e0800000000000000
+      internalID: -2226096731146280314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 27635
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3216eca2c9b604f40800000000000000
+      internalID: 5710682645983027491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 27875
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0848a9ff4e01210800000000000000
+      internalID: 1301792078770241738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 28115
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b51f7753c92e8dc0800000000000000
+      internalID: -3634921930278103632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 28355
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f4fa2d966657770800000000000000
+      internalID: 8607898867480874773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 28595
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a2d13e4fdb228e0800000000000000
+      internalID: -1719603248222098944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 28835
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71041f5aacb8d5aa0800000000000000
+      internalID: -6170622211944005609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 29075
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96705393bb3c18e10800000000000000
+      internalID: 2198253302019589993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 29315
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4345ed4d3c04674d0800000000000000
+      internalID: -3137248880582831052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 29555
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9ca2c87161ce7c0800000000000000
+      internalID: -4040830475266504286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 29795
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7241d46925e0dc0800000000000000
+      internalID: -3670905840768636951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 30035
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23959a3a144f02670800000000000000
+      internalID: 8512071858486073650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 30275
+        y: 51
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e82ffb014666520800000000000000
+      internalID: 2694951450130419235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 30515
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c28c7e192154c370800000000000000
+      internalID: 8341881646843986625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 30755
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d2732db176fe760800000000000000
+      internalID: 7489318074529033476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (tired)_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 30995
+        y: 50
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de5d1de67efc8790800000000000000
+      internalID: -7526361090505220397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clip (tired)_sheet_0: -430636182018232565
+      clip (tired)_sheet_1: -8585177165078513374
+      clip (tired)_sheet_10: -3704726765519732126
+      clip (tired)_sheet_100: 7467358383368026347
+      clip (tired)_sheet_101: -3848330318286534833
+      clip (tired)_sheet_102: 6353046613439074047
+      clip (tired)_sheet_103: -1428996015640379920
+      clip (tired)_sheet_104: -4556409439260647321
+      clip (tired)_sheet_105: 2458782891878316604
+      clip (tired)_sheet_106: 8943774360068726868
+      clip (tired)_sheet_107: 7326367259801296808
+      clip (tired)_sheet_108: -1688062244750055394
+      clip (tired)_sheet_109: -6704661652667513955
+      clip (tired)_sheet_11: 4913908895687573600
+      clip (tired)_sheet_110: 4697607495501420384
+      clip (tired)_sheet_111: 2065412614594290411
+      clip (tired)_sheet_112: 5275400226592126759
+      clip (tired)_sheet_113: -3447785142226106917
+      clip (tired)_sheet_114: -7073242549193239370
+      clip (tired)_sheet_115: 6805949508742540658
+      clip (tired)_sheet_116: 2490472563045562799
+      clip (tired)_sheet_117: -6345718622326067425
+      clip (tired)_sheet_118: -3163517100980176183
+      clip (tired)_sheet_119: 4139210632277879949
+      clip (tired)_sheet_12: -5192851081957801795
+      clip (tired)_sheet_120: -8787341766100729485
+      clip (tired)_sheet_121: -3610391428459630676
+      clip (tired)_sheet_122: -2226096731146280314
+      clip (tired)_sheet_123: 5710682645983027491
+      clip (tired)_sheet_124: 1301792078770241738
+      clip (tired)_sheet_125: -3634921930278103632
+      clip (tired)_sheet_126: 8607898867480874773
+      clip (tired)_sheet_127: -1719603248222098944
+      clip (tired)_sheet_128: -6170622211944005609
+      clip (tired)_sheet_129: 2198253302019589993
+      clip (tired)_sheet_13: -687997766207936911
+      clip (tired)_sheet_130: -3137248880582831052
+      clip (tired)_sheet_131: -4040830475266504286
+      clip (tired)_sheet_132: -3670905840768636951
+      clip (tired)_sheet_133: 8512071858486073650
+      clip (tired)_sheet_134: 2694951450130419235
+      clip (tired)_sheet_135: 8341881646843986625
+      clip (tired)_sheet_136: 7489318074529033476
+      clip (tired)_sheet_137: -7526361090505220397
+      clip (tired)_sheet_14: 6762283832034312800
+      clip (tired)_sheet_15: 4592584894022395649
+      clip (tired)_sheet_16: -5842792907522238540
+      clip (tired)_sheet_17: -7834907159844542051
+      clip (tired)_sheet_18: -4732581041812063686
+      clip (tired)_sheet_19: -2110756859696026335
+      clip (tired)_sheet_2: -1997185491648230965
+      clip (tired)_sheet_20: 7546364658653083499
+      clip (tired)_sheet_21: 1690056081810374841
+      clip (tired)_sheet_22: -3193579065300937764
+      clip (tired)_sheet_23: 7620720234903812804
+      clip (tired)_sheet_24: -3935386521935069415
+      clip (tired)_sheet_25: 3795187845977098631
+      clip (tired)_sheet_26: 2644351150683868910
+      clip (tired)_sheet_27: -977113731300905892
+      clip (tired)_sheet_28: -7634548768425103983
+      clip (tired)_sheet_29: -4055256940781328585
+      clip (tired)_sheet_3: 1026286038452423387
+      clip (tired)_sheet_30: -3770372196949019243
+      clip (tired)_sheet_31: -5805781272074674884
+      clip (tired)_sheet_32: -6913047549079733865
+      clip (tired)_sheet_33: 537084212450578771
+      clip (tired)_sheet_34: -7472624094506580676
+      clip (tired)_sheet_35: -6668525984382998923
+      clip (tired)_sheet_36: 527845097599651384
+      clip (tired)_sheet_37: -5335508377965041761
+      clip (tired)_sheet_38: 8924721087372772729
+      clip (tired)_sheet_39: -8430011244371656941
+      clip (tired)_sheet_4: 629694690926461737
+      clip (tired)_sheet_40: -2726995312242813319
+      clip (tired)_sheet_41: -2807101932820214772
+      clip (tired)_sheet_42: -7473991071336941089
+      clip (tired)_sheet_43: 2345789482142990030
+      clip (tired)_sheet_44: 7524204485978147783
+      clip (tired)_sheet_45: 1715666376384894763
+      clip (tired)_sheet_46: -7178850027475927972
+      clip (tired)_sheet_47: -8761165412310240421
+      clip (tired)_sheet_48: 1150033759163776655
+      clip (tired)_sheet_49: -6076335838087936488
+      clip (tired)_sheet_5: -5624598577409183587
+      clip (tired)_sheet_50: 565715632785773913
+      clip (tired)_sheet_51: 2133971892433110086
+      clip (tired)_sheet_52: -925232260163016982
+      clip (tired)_sheet_53: -7229539482692987337
+      clip (tired)_sheet_54: 3495901549339931146
+      clip (tired)_sheet_55: -8415304947049166171
+      clip (tired)_sheet_56: -62801993014798933
+      clip (tired)_sheet_57: -6108998915375521871
+      clip (tired)_sheet_58: 4051687674357753672
+      clip (tired)_sheet_59: -1716536820090904553
+      clip (tired)_sheet_6: -6580207319765553173
+      clip (tired)_sheet_60: 3914365455051261314
+      clip (tired)_sheet_61: -7608093667162190201
+      clip (tired)_sheet_62: -4289873272955555978
+      clip (tired)_sheet_63: -5935980651487880453
+      clip (tired)_sheet_64: -3189456783284829401
+      clip (tired)_sheet_65: 6476676010936784386
+      clip (tired)_sheet_66: 6905196524524343066
+      clip (tired)_sheet_67: 9041683433789912581
+      clip (tired)_sheet_68: -6823238426587009150
+      clip (tired)_sheet_69: -8776431170024062912
+      clip (tired)_sheet_7: 5721841597933299158
+      clip (tired)_sheet_70: 4885287192519760882
+      clip (tired)_sheet_71: -419214095073371201
+      clip (tired)_sheet_72: -7688455832303487264
+      clip (tired)_sheet_73: -8039368420450885981
+      clip (tired)_sheet_74: 6606412110239159018
+      clip (tired)_sheet_75: 8270178148622065096
+      clip (tired)_sheet_76: 3149911017084880264
+      clip (tired)_sheet_77: 1001110934123018742
+      clip (tired)_sheet_78: -6362252066757900421
+      clip (tired)_sheet_79: 1020179733264248768
+      clip (tired)_sheet_8: 2370175529090323181
+      clip (tired)_sheet_80: -2544955731188898526
+      clip (tired)_sheet_81: -6181017524885141983
+      clip (tired)_sheet_82: 4038877979537080871
+      clip (tired)_sheet_83: 3803294312493039498
+      clip (tired)_sheet_84: -8840398344300825350
+      clip (tired)_sheet_85: -4553751334906437975
+      clip (tired)_sheet_86: 3316797266051977380
+      clip (tired)_sheet_87: -1654377490510630512
+      clip (tired)_sheet_88: 2391450488455810786
+      clip (tired)_sheet_89: -9181285326172734920
+      clip (tired)_sheet_9: -45240162138091192
+      clip (tired)_sheet_90: -1787676042597761052
+      clip (tired)_sheet_91: -4845078324475115657
+      clip (tired)_sheet_92: -2062647946967840149
+      clip (tired)_sheet_93: -6455621086586408461
+      clip (tired)_sheet_94: -3603558322783395010
+      clip (tired)_sheet_95: -7157418889860486271
+      clip (tired)_sheet_96: 5456334088000315559
+      clip (tired)_sheet_97: 2410676016756537185
+      clip (tired)_sheet_98: -4255683407519057459
+      clip (tired)_sheet_99: 4501496656958361390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: a43076930217e451f88fd645114d8bb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9010694708261891049
+    second: clip (point down)_sheet_0
+  - first:
+      213: -6429295065370547179
+    second: clip (point down)_sheet_1
+  - first:
+      213: -2341764166812267715
+    second: clip (point down)_sheet_2
+  - first:
+      213: -5919535837634383020
+    second: clip (point down)_sheet_3
+  - first:
+      213: 4930037223653087854
+    second: clip (point down)_sheet_4
+  - first:
+      213: -6119464783853792247
+    second: clip (point down)_sheet_5
+  - first:
+      213: -5792187836920541788
+    second: clip (point down)_sheet_6
+  - first:
+      213: 3436683094644673940
+    second: clip (point down)_sheet_7
+  - first:
+      213: -8584940834150184958
+    second: clip (point down)_sheet_8
+  - first:
+      213: -8611775306044912664
+    second: clip (point down)_sheet_9
+  - first:
+      213: 3899896569771659209
+    second: clip (point down)_sheet_10
+  - first:
+      213: -4622305276639654213
+    second: clip (point down)_sheet_11
+  - first:
+      213: 2026431393613836999
+    second: clip (point down)_sheet_12
+  - first:
+      213: -2461360468378453271
+    second: clip (point down)_sheet_13
+  - first:
+      213: 889823515174676925
+    second: clip (point down)_sheet_14
+  - first:
+      213: -6885300128462059034
+    second: clip (point down)_sheet_15
+  - first:
+      213: -7855122053831487946
+    second: clip (point down)_sheet_16
+  - first:
+      213: -7320509561191873180
+    second: clip (point down)_sheet_17
+  - first:
+      213: -3157135435470578592
+    second: clip (point down)_sheet_18
+  - first:
+      213: 8554604554109267156
+    second: clip (point down)_sheet_19
+  - first:
+      213: 569994739399105654
+    second: clip (point down)_sheet_20
+  - first:
+      213: -8807321546027234065
+    second: clip (point down)_sheet_21
+  - first:
+      213: 1868893275716968750
+    second: clip (point down)_sheet_22
+  - first:
+      213: -8476867561525926367
+    second: clip (point down)_sheet_23
+  - first:
+      213: -1771574909777494949
+    second: clip (point down)_sheet_24
+  - first:
+      213: 8234908129223859016
+    second: clip (point down)_sheet_25
+  - first:
+      213: 6877589569633553958
+    second: clip (point down)_sheet_26
+  - first:
+      213: -6128308401151684719
+    second: clip (point down)_sheet_27
+  - first:
+      213: -4437943564667459047
+    second: clip (point down)_sheet_28
+  - first:
+      213: -4146508951308765291
+    second: clip (point down)_sheet_29
+  - first:
+      213: 374605552510261493
+    second: clip (point down)_sheet_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clip (point down)_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb2171b81b6c0d70800000000000000
+      internalID: 9010694708261891049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51caa60b33e86c6a0800000000000000
+      internalID: -6429295065370547179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b8a61c5e1608fd0800000000000000
+      internalID: -2341764166812267715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 50
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453bb9ac48599dda0800000000000000
+      internalID: -5919535837634383020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 50
+        width: 154
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a9b450cb20b6440800000000000000
+      internalID: 4930037223653087854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 50
+        width: 154
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904d1ee833b431ba0800000000000000
+      internalID: -6119464783853792247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 51
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad4304c9d30e9fa0800000000000000
+      internalID: -5792187836920541788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 50
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dc2e5f01d81bf20800000000000000
+      internalID: 3436683094644673940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 50
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2088bbadbc92cd880800000000000000
+      internalID: -8584940834150184958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 50
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb46bd7cf3dc7880800000000000000
+      internalID: -8611775306044912664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 51
+        width: 154
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf010684473f1630800000000000000
+      internalID: 3899896569771659209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 51
+        width: 154
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeca7647d54adfb0800000000000000
+      internalID: -4622305276639654213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 51
+        width: 154
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c27d02bd945f1c10800000000000000
+      internalID: 2026431393613836999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 50
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eafc12e1bd77ddd0800000000000000
+      internalID: -2461360468378453271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 51
+        width: 154
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9a6c6c5c9495c00800000000000000
+      internalID: 889823515174676925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 50
+        width: 154
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9411753008270a0800000000000000
+      internalID: -6885300128462059034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 50
+        width: 154
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e890a3c100df290800000000000000
+      internalID: -7855122053831487946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 50
+        width: 154
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465ce4ef653586a90800000000000000
+      internalID: -7320509561191873180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 50
+        width: 154
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c5af47c0a9f24d0800000000000000
+      internalID: -3157135435470578592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 50
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc2f99848f08b670800000000000000
+      internalID: 8554604554109267156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 51
+        width: 154
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c99bd023709e700800000000000000
+      internalID: 569994739399105654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5075
+        y: 50
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec076297bb16c580800000000000000
+      internalID: -8807321546027234065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 51
+        width: 154
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21e93e4884afe910800000000000000
+      internalID: 1868893275716968750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5555
+        y: 51
+        width: 154
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126273b7ddd1c5a80800000000000000
+      internalID: -8476867561525926367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 51
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cb7b9710a1a67e0800000000000000
+      internalID: -1771574909777494949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 51
+        width: 154
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b5d582055484270800000000000000
+      internalID: 8234908129223859016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 51
+        width: 154
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e80f8464b127f50800000000000000
+      internalID: 6877589569633553958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6515
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fcf437affd3faa0800000000000000
+      internalID: -6128308401151684719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ae3c657d14962c0800000000000000
+      internalID: -4437943564667459047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5977343f314a476c0800000000000000
+      internalID: -4146508951308765291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (point down)_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 7235
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f85348e3cdd23500800000000000000
+      internalID: 374605552510261493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clip (point down)_sheet_0: 9010694708261891049
+      clip (point down)_sheet_1: -6429295065370547179
+      clip (point down)_sheet_10: 3899896569771659209
+      clip (point down)_sheet_11: -4622305276639654213
+      clip (point down)_sheet_12: 2026431393613836999
+      clip (point down)_sheet_13: -2461360468378453271
+      clip (point down)_sheet_14: 889823515174676925
+      clip (point down)_sheet_15: -6885300128462059034
+      clip (point down)_sheet_16: -7855122053831487946
+      clip (point down)_sheet_17: -7320509561191873180
+      clip (point down)_sheet_18: -3157135435470578592
+      clip (point down)_sheet_19: 8554604554109267156
+      clip (point down)_sheet_2: -2341764166812267715
+      clip (point down)_sheet_20: 569994739399105654
+      clip (point down)_sheet_21: -8807321546027234065
+      clip (point down)_sheet_22: 1868893275716968750
+      clip (point down)_sheet_23: -8476867561525926367
+      clip (point down)_sheet_24: -1771574909777494949
+      clip (point down)_sheet_25: 8234908129223859016
+      clip (point down)_sheet_26: 6877589569633553958
+      clip (point down)_sheet_27: -6128308401151684719
+      clip (point down)_sheet_28: -4437943564667459047
+      clip (point down)_sheet_29: -4146508951308765291
+      clip (point down)_sheet_3: -5919535837634383020
+      clip (point down)_sheet_30: 374605552510261493
+      clip (point down)_sheet_4: 4930037223653087854
+      clip (point down)_sheet_5: -6119464783853792247
+      clip (point down)_sheet_6: -5792187836920541788
+      clip (point down)_sheet_7: 3436683094644673940
+      clip (point down)_sheet_8: -8584940834150184958
+      clip (point down)_sheet_9: -8611775306044912664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

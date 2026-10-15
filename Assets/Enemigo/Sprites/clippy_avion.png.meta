@@ -1,0 +1,2383 @@
+fileFormatVersion: 2
+guid: d4b1d56affc884955ada11e275a2a724
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1898520525412293945
+    second: clippy_avion_0
+  - first:
+      213: 3473821698935461464
+    second: clippy_avion_1
+  - first:
+      213: 1705460604616226172
+    second: clippy_avion_2
+  - first:
+      213: 5392739112627959073
+    second: clippy_avion_3
+  - first:
+      213: -6321665212924814707
+    second: clippy_avion_4
+  - first:
+      213: 2720342612546402850
+    second: clippy_avion_5
+  - first:
+      213: 6927950679261216780
+    second: clippy_avion_6
+  - first:
+      213: -8926166117377283580
+    second: clippy_avion_7
+  - first:
+      213: 5595719697830780607
+    second: clippy_avion_8
+  - first:
+      213: -6293220461128052825
+    second: clippy_avion_9
+  - first:
+      213: -1859108238567535623
+    second: clippy_avion_10
+  - first:
+      213: -9021228712566181824
+    second: clippy_avion_11
+  - first:
+      213: 6003445849637168610
+    second: clippy_avion_12
+  - first:
+      213: 2021599636981388283
+    second: clippy_avion_13
+  - first:
+      213: 2497066844323971493
+    second: clippy_avion_14
+  - first:
+      213: 3341235135229410570
+    second: clippy_avion_15
+  - first:
+      213: -6903588431817852316
+    second: clippy_avion_16
+  - first:
+      213: 1653516641039906669
+    second: clippy_avion_17
+  - first:
+      213: 8821534236595457234
+    second: clippy_avion_18
+  - first:
+      213: -6527540937525297937
+    second: clippy_avion_19
+  - first:
+      213: -3013878409970660256
+    second: clippy_avion_20
+  - first:
+      213: 1076090136493528876
+    second: clippy_avion_21
+  - first:
+      213: -8316399091718880332
+    second: clippy_avion_22
+  - first:
+      213: -7270698823407139983
+    second: clippy_avion_23
+  - first:
+      213: 2636909873526639738
+    second: clippy_avion_24
+  - first:
+      213: 122153167549278910
+    second: clippy_avion_25
+  - first:
+      213: 8536266820665039837
+    second: clippy_avion_26
+  - first:
+      213: 8556817167739501971
+    second: clippy_avion_27
+  - first:
+      213: -1559107761542153810
+    second: clippy_avion_28
+  - first:
+      213: -4505185818774767687
+    second: clippy_avion_29
+  - first:
+      213: 234940199318861730
+    second: clippy_avion_30
+  - first:
+      213: 8242812782876580376
+    second: clippy_avion_31
+  - first:
+      213: 467762831713626332
+    second: clippy_avion_32
+  - first:
+      213: 4789619174310234879
+    second: clippy_avion_33
+  - first:
+      213: -7281676141637363069
+    second: clippy_avion_34
+  - first:
+      213: -963068047202764901
+    second: clippy_avion_35
+  - first:
+      213: 7795987086288486029
+    second: clippy_avion_36
+  - first:
+      213: -4584960779413131097
+    second: clippy_avion_37
+  - first:
+      213: -7626494056760526375
+    second: clippy_avion_38
+  - first:
+      213: -5601018122547602948
+    second: clippy_avion_39
+  - first:
+      213: -5888925656862404019
+    second: clippy_avion_40
+  - first:
+      213: 7513787055465710863
+    second: clippy_avion_41
+  - first:
+      213: -8915537791667352140
+    second: clippy_avion_42
+  - first:
+      213: -4374119865343968178
+    second: clippy_avion_43
+  - first:
+      213: 2759852222261263922
+    second: clippy_avion_44
+  - first:
+      213: -9107277817559156713
+    second: clippy_avion_45
+  - first:
+      213: 8393962094657972429
+    second: clippy_avion_46
+  - first:
+      213: 2567335354921556079
+    second: clippy_avion_47
+  - first:
+      213: -859164192678122819
+    second: clippy_avion_48
+  - first:
+      213: 5426034508043640334
+    second: clippy_avion_49
+  - first:
+      213: -4805078944669869062
+    second: clippy_avion_50
+  - first:
+      213: 5651696086642896840
+    second: clippy_avion_51
+  - first:
+      213: 7987486678890827048
+    second: clippy_avion_52
+  - first:
+      213: 5170215699688082509
+    second: clippy_avion_53
+  - first:
+      213: 1890616666239378706
+    second: clippy_avion_54
+  - first:
+      213: 809795691892199792
+    second: clippy_avion_55
+  - first:
+      213: -544719613276986563
+    second: clippy_avion_56
+  - first:
+      213: -1248296735669433458
+    second: clippy_avion_57
+  - first:
+      213: 7413486731449283912
+    second: clippy_avion_58
+  - first:
+      213: 8996992265996145373
+    second: clippy_avion_59
+  - first:
+      213: -7079278081641434645
+    second: clippy_avion_60
+  - first:
+      213: 7576427486588951363
+    second: clippy_avion_61
+  - first:
+      213: 5345208659892747173
+    second: clippy_avion_62
+  - first:
+      213: -8523481541490341738
+    second: clippy_avion_63
+  - first:
+      213: -7948175425837939385
+    second: clippy_avion_64
+  - first:
+      213: 9140584054461938079
+    second: clippy_avion_65
+  - first:
+      213: -8197800025537855963
+    second: clippy_avion_66
+  - first:
+      213: 4345214906548551760
+    second: clippy_avion_67
+  - first:
+      213: 3941024634327493439
+    second: clippy_avion_68
+  - first:
+      213: -8831188437357589258
+    second: clippy_avion_69
+  - first:
+      213: -2339731017885264614
+    second: clippy_avion_70
+  - first:
+      213: -1375997544188704267
+    second: clippy_avion_71
+  - first:
+      213: 1411649208502229695
+    second: clippy_avion_72
+  - first:
+      213: -8530462029662448817
+    second: clippy_avion_73
+  - first:
+      213: -2881849124511006095
+    second: clippy_avion_74
+  - first:
+      213: 7013777338652433026
+    second: clippy_avion_75
+  - first:
+      213: 7820275338270398297
+    second: clippy_avion_76
+  - first:
+      213: -616992883638380795
+    second: clippy_avion_77
+  - first:
+      213: -5065680706142840714
+    second: clippy_avion_78
+  - first:
+      213: 4773444473902987656
+    second: clippy_avion_79
+  - first:
+      213: 2687361294917342170
+    second: clippy_avion_80
+  - first:
+      213: -1795394670754263419
+    second: clippy_avion_81
+  - first:
+      213: -6222958761841589401
+    second: clippy_avion_82
+  - first:
+      213: 1548837570431194809
+    second: clippy_avion_83
+  - first:
+      213: -1948737135578561498
+    second: clippy_avion_84
+  - first:
+      213: -5145217043684402408
+    second: clippy_avion_85
+  - first:
+      213: 22612831508569196
+    second: clippy_avion_86
+  - first:
+      213: 3538132215238720597
+    second: clippy_avion_87
+  - first:
+      213: -495574597628843742
+    second: clippy_avion_88
+  - first:
+      213: -4493787603257582006
+    second: clippy_avion_89
+  - first:
+      213: -7919335255483126827
+    second: clippy_avion_90
+  - first:
+      213: -8901272216102387512
+    second: clippy_avion_91
+  - first:
+      213: 150723010963170762
+    second: clippy_avion_92
+  - first:
+      213: -272454623009131707
+    second: clippy_avion_93
+  - first:
+      213: -820967540264878299
+    second: clippy_avion_94
+  - first:
+      213: 859369972870578456
+    second: clippy_avion_95
+  - first:
+      213: -1996795082257418737
+    second: clippy_avion_96
+  - first:
+      213: -7461441237321274430
+    second: clippy_avion_97
+  - first:
+      213: 3448377715480779398
+    second: clippy_avion_98
+  - first:
+      213: 7455983998229274465
+    second: clippy_avion_99
+  - first:
+      213: -3733171511989932552
+    second: clippy_avion_100
+  - first:
+      213: -3824288803263342544
+    second: clippy_avion_101
+  - first:
+      213: -2308716939263616292
+    second: clippy_avion_102
+  - first:
+      213: -4468127698246049620
+    second: clippy_avion_103
+  - first:
+      213: 1728625126854086986
+    second: clippy_avion_104
+  - first:
+      213: -2008350809907766691
+    second: clippy_avion_105
+  - first:
+      213: -1047882985999791318
+    second: clippy_avion_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clippy_avion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46421ce0c6f114aa08edbf0b7a84d15e
+      internalID: 1898520525412293945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970cb3d37d0d4b319f776060181b1bf
+      internalID: 3473821698935461464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d20865151bb44b89924cca74d8906d
+      internalID: 1705460604616226172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264d60441e7ec486d9977acfe250fed5
+      internalID: 5392739112627959073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c323893a4d0484edc9362dea6a229ff8
+      internalID: -6321665212924814707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb64cc13e2ee4b22ac5cf551afd7963
+      internalID: 2720342612546402850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39992ca1ff7e741fd94869f22ec484c9
+      internalID: 6927950679261216780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b15022a2ec84282a99c8ec9078a378
+      internalID: -8926166117377283580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996d8ef5dae1b41289003f52c142df40
+      internalID: 5595719697830780607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5e8d827fcdb4e0b9c51506c1b6db09
+      internalID: -6293220461128052825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543c30e1a0a2845c5bff2cd436491d5b
+      internalID: -1859108238567535623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6ab6899019f4052bf88635ddc8d9b0
+      internalID: -9021228712566181824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62993b8e5abd4f17a51031ad5809a16
+      internalID: 6003445849637168610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cab0ed01b1e4aae8b20359194daa78
+      internalID: 2021599636981388283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db84e22058b04485d88d5b1ad713575a
+      internalID: 2497066844323971493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa6707f4154a41c4b08b9b4e7d4adca
+      internalID: 3341235135229410570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006286f4583e3475aafbce2338c00a15
+      internalID: -6903588431817852316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85725e7b66e2a443db269aaa77c97749
+      internalID: 1653516641039906669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c090aef55e9f04c38bfd5d211320b337
+      internalID: 8821534236595457234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4891df8a8d8a2478ca4bdb7ae655998c
+      internalID: -6527540937525297937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214cd02c79cd24aefa3c81189084672e
+      internalID: -3013878409970660256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e34115c94d940798292ea21d0ec6cf
+      internalID: 1076090136493528876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_22
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d122784739d4145a2ee781a35b9754
+      internalID: -8316399091718880332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_23
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81606a33431704cb6aa0147de8822c1b
+      internalID: -7270698823407139983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06076a6ff2de644939db3c89ab764de0
+      internalID: 2636909873526639738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d57354f80444f8a2f832e4e5a2f19
+      internalID: 122153167549278910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a63aaaa2b6c04e6a92ab66d4441e295
+      internalID: 8536266820665039837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0001e8b41e451453ba85340ff89f439a
+      internalID: 8556817167739501971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85183d0a347b74fb69b68d94d6dee042
+      internalID: -1559107761542153810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae156d889824af7a9198ede2c1c00b
+      internalID: -4505185818774767687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_30
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d9f8ce6df584231a62e29f9867d3a3
+      internalID: 234940199318861730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_31
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15803c5f5fe5b4892ba87666c2c87145
+      internalID: 8242812782876580376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906ba57dd426c46e5b0d4ef9938e85d3
+      internalID: 467762831713626332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87dbccbe299141dd9f1ea25c23f6d69
+      internalID: 4789619174310234879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5b7279e8dd044efbf702b010c38350
+      internalID: -7281676141637363069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779bea48506bf4099b9b3e3fa6dc9cf7
+      internalID: -963068047202764901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_36
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88cb35d7445a4c959aad11ca0f81de5
+      internalID: 7795987086288486029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bb326bc1e7f4dfeb282905bdc90863
+      internalID: -4584960779413131097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a2e1514683b49d39f06ffa714dbf04
+      internalID: -7626494056760526375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_39
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e29d7a2a1054c54915d2f0c019051b
+      internalID: -5601018122547602948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33435c3c70a94ff1842f488c1ace06e
+      internalID: -5888925656862404019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c2d4b87b323465a8da9ccd39bae60f
+      internalID: 7513787055465710863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ece4336ad7c46a5b575e5d44b2b386
+      internalID: -8915537791667352140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0308e9a5bc3474e82fe261ae7febcf
+      internalID: -4374119865343968178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0d15563b2444a9cbc53508509cdf36
+      internalID: 2759852222261263922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c8ba92417b948b1b22aaeefded8091
+      internalID: -9107277817559156713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad5a430c6304fbaaef6cb104e7dacd
+      internalID: 8393962094657972429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059c760d48f0b43838b2a553488962e8
+      internalID: 2567335354921556079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6902bac227645ba8dabeacefce1b6b
+      internalID: -859164192678122819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b9d8fdd058e4ceca19b277c00a66d5
+      internalID: 5426034508043640334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a67bb26e037d403aa623927cca28e8c
+      internalID: -4805078944669869062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_51
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ddbaca2dfbe41468202def7b5fcb40
+      internalID: 5651696086642896840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_52
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8022c5c3ff7a41faae308afc612edad
+      internalID: 7987486678890827048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_53
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9255d9b001345e7ad5e73175f1a1a8
+      internalID: 5170215699688082509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_54
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856c71b6211e41fc9092afc702c1652
+      internalID: 1890616666239378706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_55
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882818460e461400f8074c775bb557c0
+      internalID: 809795691892199792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a030bcc00a14edcb548f0b5a1eee0a
+      internalID: -544719613276986563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeaf89407ed84298b103a8e542d631b
+      internalID: -1248296735669433458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaca082377d745e6808368d1fd9da77
+      internalID: 7413486731449283912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ac5aa6f0bed44629a1a7e18dd441d2
+      internalID: 8996992265996145373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_60
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce17c25e35b04462c9379bc6246d5417
+      internalID: -7079278081641434645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_61
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb85abc51a88e465fb75469429e664d5
+      internalID: 7576427486588951363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_62
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad9f0932be84f8eb2aa96b1428bef3
+      internalID: 5345208659892747173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_63
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01196639b453a4bd898cecc7277138e2
+      internalID: -8523481541490341738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a852ebd3fb84807977735f36e809f9
+      internalID: -7948175425837939385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f68fbf42bb5440eb0d40ac4e4b98c3
+      internalID: 9140584054461938079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a723548152ef843e1b6ef3be66311673
+      internalID: -8197800025537855963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_67
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e3c74a373a40ae84a707c90ae26ce
+      internalID: 4345214906548551760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_68
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b00239e8de0420c9febd4a4cc6d0c1
+      internalID: 3941024634327493439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_69
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85c5e7057ba44fbebe549d0df9e9ab5
+      internalID: -8831188437357589258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_70
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f748d4494989648ab9fb98a4cf4d1fc7
+      internalID: -2339731017885264614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_71
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a753e4291554976a1293a50ecfd32b
+      internalID: -1375997544188704267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19ad96e528ad4bd4a8826a4404857ca
+      internalID: 1411649208502229695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f19edaa14a6d49f79338791d94a4416
+      internalID: -8530462029662448817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f396e8645ae64d4d912e1d3b1d55e9b
+      internalID: -2881849124511006095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_75
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf04fc8cd3a44881988e033624998c4
+      internalID: 7013777338652433026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_76
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6bfdf9469f645b19575649deb3adad
+      internalID: 7820275338270398297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_77
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db3f3dd3dd24ddbb3295a95abc6a42
+      internalID: -616992883638380795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_78
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59a2cd3189244d7d80b750d89d04758
+      internalID: -5065680706142840714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_79
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b8ea97873d24538be719c45c2c4672
+      internalID: 4773444473902987656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b92416aafc74d5bbab1b124cea7785
+      internalID: 2687361294917342170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b441292d799334680a5533c51c8ad37b
+      internalID: -1795394670754263419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155c3e0c9182841219b9431d0a85016f
+      internalID: -6222958761841589401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clippy_avion_83
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5626649b46d242a68c3312ad6567145
+      internalID: 1548837570431194809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5acd0111016e48ca868cd9f5813df00
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clippy_avion_0: 1898520525412293945
+      clippy_avion_1: 3473821698935461464
+      clippy_avion_10: -1859108238567535623
+      clippy_avion_11: -9021228712566181824
+      clippy_avion_12: 6003445849637168610
+      clippy_avion_13: 2021599636981388283
+      clippy_avion_14: 2497066844323971493
+      clippy_avion_15: 3341235135229410570
+      clippy_avion_16: -6903588431817852316
+      clippy_avion_17: 1653516641039906669
+      clippy_avion_18: 8821534236595457234
+      clippy_avion_19: -6527540937525297937
+      clippy_avion_2: 1705460604616226172
+      clippy_avion_20: -3013878409970660256
+      clippy_avion_21: 1076090136493528876
+      clippy_avion_22: -8316399091718880332
+      clippy_avion_23: -7270698823407139983
+      clippy_avion_24: 2636909873526639738
+      clippy_avion_25: 122153167549278910
+      clippy_avion_26: 8536266820665039837
+      clippy_avion_27: 8556817167739501971
+      clippy_avion_28: -1559107761542153810
+      clippy_avion_29: -4505185818774767687
+      clippy_avion_3: 5392739112627959073
+      clippy_avion_30: 234940199318861730
+      clippy_avion_31: 8242812782876580376
+      clippy_avion_32: 467762831713626332
+      clippy_avion_33: 4789619174310234879
+      clippy_avion_34: -7281676141637363069
+      clippy_avion_35: -963068047202764901
+      clippy_avion_36: 7795987086288486029
+      clippy_avion_37: -4584960779413131097
+      clippy_avion_38: -7626494056760526375
+      clippy_avion_39: -5601018122547602948
+      clippy_avion_4: -6321665212924814707
+      clippy_avion_40: -5888925656862404019
+      clippy_avion_41: 7513787055465710863
+      clippy_avion_42: -8915537791667352140
+      clippy_avion_43: -4374119865343968178
+      clippy_avion_44: 2759852222261263922
+      clippy_avion_45: -9107277817559156713
+      clippy_avion_46: 8393962094657972429
+      clippy_avion_47: 2567335354921556079
+      clippy_avion_48: -859164192678122819
+      clippy_avion_49: 5426034508043640334
+      clippy_avion_5: 2720342612546402850
+      clippy_avion_50: -4805078944669869062
+      clippy_avion_51: 5651696086642896840
+      clippy_avion_52: 7987486678890827048
+      clippy_avion_53: 5170215699688082509
+      clippy_avion_54: 1890616666239378706
+      clippy_avion_55: 809795691892199792
+      clippy_avion_56: -544719613276986563
+      clippy_avion_57: -1248296735669433458
+      clippy_avion_58: 7413486731449283912
+      clippy_avion_59: 8996992265996145373
+      clippy_avion_6: 6927950679261216780
+      clippy_avion_60: -7079278081641434645
+      clippy_avion_61: 7576427486588951363
+      clippy_avion_62: 5345208659892747173
+      clippy_avion_63: -8523481541490341738
+      clippy_avion_64: -7948175425837939385
+      clippy_avion_65: 9140584054461938079
+      clippy_avion_66: -8197800025537855963
+      clippy_avion_67: 4345214906548551760
+      clippy_avion_68: 3941024634327493439
+      clippy_avion_69: -8831188437357589258
+      clippy_avion_7: -8926166117377283580
+      clippy_avion_70: -2339731017885264614
+      clippy_avion_71: -1375997544188704267
+      clippy_avion_72: 1411649208502229695
+      clippy_avion_73: -8530462029662448817
+      clippy_avion_74: -2881849124511006095
+      clippy_avion_75: 7013777338652433026
+      clippy_avion_76: 7820275338270398297
+      clippy_avion_77: -616992883638380795
+      clippy_avion_78: -5065680706142840714
+      clippy_avion_79: 4773444473902987656
+      clippy_avion_8: 5595719697830780607
+      clippy_avion_80: 2687361294917342170
+      clippy_avion_81: -1795394670754263419
+      clippy_avion_82: -6222958761841589401
+      clippy_avion_83: 1548837570431194809
+      clippy_avion_9: -6293220461128052825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

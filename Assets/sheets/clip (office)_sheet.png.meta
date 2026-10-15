@@ -1,0 +1,3432 @@
+fileFormatVersion: 2
+guid: e6093957ea07545c1846a57d1c847e5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7799380838163973505
+    second: clip (office)_sheet_0
+  - first:
+      213: 145115469053428286
+    second: clip (office)_sheet_1
+  - first:
+      213: 7253364033500030368
+    second: clip (office)_sheet_2
+  - first:
+      213: 7951487232153162537
+    second: clip (office)_sheet_3
+  - first:
+      213: -2542694565847782499
+    second: clip (office)_sheet_4
+  - first:
+      213: 9154929438954697626
+    second: clip (office)_sheet_5
+  - first:
+      213: -2146425951822848394
+    second: clip (office)_sheet_6
+  - first:
+      213: -1540030443690642231
+    second: clip (office)_sheet_7
+  - first:
+      213: 8527978734686322302
+    second: clip (office)_sheet_8
+  - first:
+      213: 5960592953930113232
+    second: clip (office)_sheet_9
+  - first:
+      213: 304744563480900536
+    second: clip (office)_sheet_10
+  - first:
+      213: -810206993953644989
+    second: clip (office)_sheet_11
+  - first:
+      213: 7230238647077387002
+    second: clip (office)_sheet_12
+  - first:
+      213: -7202090731904355297
+    second: clip (office)_sheet_13
+  - first:
+      213: 7016419079550953170
+    second: clip (office)_sheet_14
+  - first:
+      213: -6985697118837939514
+    second: clip (office)_sheet_15
+  - first:
+      213: -3998888699907325235
+    second: clip (office)_sheet_16
+  - first:
+      213: -2072249711413011894
+    second: clip (office)_sheet_17
+  - first:
+      213: 1625477738758738063
+    second: clip (office)_sheet_18
+  - first:
+      213: -748103932622858642
+    second: clip (office)_sheet_19
+  - first:
+      213: -3697299241523844695
+    second: clip (office)_sheet_20
+  - first:
+      213: -3951990558937900358
+    second: clip (office)_sheet_21
+  - first:
+      213: -1998840699188530916
+    second: clip (office)_sheet_22
+  - first:
+      213: 7289181880485483064
+    second: clip (office)_sheet_23
+  - first:
+      213: -2925869377660217496
+    second: clip (office)_sheet_24
+  - first:
+      213: -7137226318312554296
+    second: clip (office)_sheet_25
+  - first:
+      213: 2127669190472856163
+    second: clip (office)_sheet_26
+  - first:
+      213: -3688849485415714657
+    second: clip (office)_sheet_27
+  - first:
+      213: -8389790233801503604
+    second: clip (office)_sheet_28
+  - first:
+      213: 7132357984737992517
+    second: clip (office)_sheet_29
+  - first:
+      213: -1921693924451667691
+    second: clip (office)_sheet_30
+  - first:
+      213: -4170230923089483138
+    second: clip (office)_sheet_31
+  - first:
+      213: -9180311327556597547
+    second: clip (office)_sheet_32
+  - first:
+      213: -5033230397789160268
+    second: clip (office)_sheet_33
+  - first:
+      213: -6094269564702312267
+    second: clip (office)_sheet_34
+  - first:
+      213: 398041823574197698
+    second: clip (office)_sheet_35
+  - first:
+      213: -2222711189553095794
+    second: clip (office)_sheet_36
+  - first:
+      213: 7107300566759153136
+    second: clip (office)_sheet_37
+  - first:
+      213: -4161727976479215216
+    second: clip (office)_sheet_38
+  - first:
+      213: -7524138536696670758
+    second: clip (office)_sheet_39
+  - first:
+      213: 4760392917371735153
+    second: clip (office)_sheet_40
+  - first:
+      213: -4640787928805567171
+    second: clip (office)_sheet_41
+  - first:
+      213: 9122978204604266339
+    second: clip (office)_sheet_42
+  - first:
+      213: -581738490220295190
+    second: clip (office)_sheet_43
+  - first:
+      213: -7739072562001319184
+    second: clip (office)_sheet_44
+  - first:
+      213: -7498011662973828523
+    second: clip (office)_sheet_45
+  - first:
+      213: 3268305453987857714
+    second: clip (office)_sheet_46
+  - first:
+      213: -7757669462626259748
+    second: clip (office)_sheet_47
+  - first:
+      213: 2083989407334694140
+    second: clip (office)_sheet_48
+  - first:
+      213: 3909799056390168360
+    second: clip (office)_sheet_49
+  - first:
+      213: 2850063793922529828
+    second: clip (office)_sheet_50
+  - first:
+      213: 2211279944553900266
+    second: clip (office)_sheet_51
+  - first:
+      213: 4118418470922435910
+    second: clip (office)_sheet_52
+  - first:
+      213: 8386448646333814211
+    second: clip (office)_sheet_53
+  - first:
+      213: -5734373466484104142
+    second: clip (office)_sheet_54
+  - first:
+      213: -5311814804687917997
+    second: clip (office)_sheet_55
+  - first:
+      213: -182797689520180089
+    second: clip (office)_sheet_56
+  - first:
+      213: -7644338806043995070
+    second: clip (office)_sheet_57
+  - first:
+      213: -8421551907269744699
+    second: clip (office)_sheet_58
+  - first:
+      213: -1950026737096818266
+    second: clip (office)_sheet_59
+  - first:
+      213: 3148022663973701979
+    second: clip (office)_sheet_60
+  - first:
+      213: 4735354507512054934
+    second: clip (office)_sheet_61
+  - first:
+      213: -6923952119865643114
+    second: clip (office)_sheet_62
+  - first:
+      213: 8400031703576321346
+    second: clip (office)_sheet_63
+  - first:
+      213: -2306650161344883021
+    second: clip (office)_sheet_64
+  - first:
+      213: -6398368756637306073
+    second: clip (office)_sheet_65
+  - first:
+      213: -4603702405531808809
+    second: clip (office)_sheet_66
+  - first:
+      213: 3958897142526340416
+    second: clip (office)_sheet_67
+  - first:
+      213: -5185208270785184251
+    second: clip (office)_sheet_68
+  - first:
+      213: -3406558691764915054
+    second: clip (office)_sheet_69
+  - first:
+      213: 6673345869647211703
+    second: clip (office)_sheet_70
+  - first:
+      213: -7315285017900362145
+    second: clip (office)_sheet_71
+  - first:
+      213: 8065469510296665166
+    second: clip (office)_sheet_72
+  - first:
+      213: 4541441967295780352
+    second: clip (office)_sheet_73
+  - first:
+      213: -3953456140380376904
+    second: clip (office)_sheet_74
+  - first:
+      213: 6535256653084927869
+    second: clip (office)_sheet_75
+  - first:
+      213: -2799831460137268498
+    second: clip (office)_sheet_76
+  - first:
+      213: -8690768934329104942
+    second: clip (office)_sheet_77
+  - first:
+      213: -367127514162434919
+    second: clip (office)_sheet_78
+  - first:
+      213: 5375955810566935595
+    second: clip (office)_sheet_79
+  - first:
+      213: 179200531846669399
+    second: clip (office)_sheet_80
+  - first:
+      213: -361177273318126797
+    second: clip (office)_sheet_81
+  - first:
+      213: -6296001641070473941
+    second: clip (office)_sheet_82
+  - first:
+      213: -4597240664062563533
+    second: clip (office)_sheet_83
+  - first:
+      213: -1550619408955892311
+    second: clip (office)_sheet_84
+  - first:
+      213: 2565088286598264602
+    second: clip (office)_sheet_85
+  - first:
+      213: 2555722008229789331
+    second: clip (office)_sheet_86
+  - first:
+      213: 3102959747899341742
+    second: clip (office)_sheet_87
+  - first:
+      213: -7411507327189526990
+    second: clip (office)_sheet_88
+  - first:
+      213: -7283809737010984006
+    second: clip (office)_sheet_89
+  - first:
+      213: -5535256223077807177
+    second: clip (office)_sheet_90
+  - first:
+      213: -4991847906835218591
+    second: clip (office)_sheet_91
+  - first:
+      213: 3308129577374431700
+    second: clip (office)_sheet_92
+  - first:
+      213: 4255298301550958860
+    second: clip (office)_sheet_93
+  - first:
+      213: -1517022937714457616
+    second: clip (office)_sheet_94
+  - first:
+      213: 4918805200117370997
+    second: clip (office)_sheet_95
+  - first:
+      213: 9017737359713410209
+    second: clip (office)_sheet_96
+  - first:
+      213: 229899554015400725
+    second: clip (office)_sheet_97
+  - first:
+      213: 956878028986893510
+    second: clip (office)_sheet_98
+  - first:
+      213: 3302718647222078372
+    second: clip (office)_sheet_99
+  - first:
+      213: -6777366642098554299
+    second: clip (office)_sheet_100
+  - first:
+      213: 1866436256124844310
+    second: clip (office)_sheet_101
+  - first:
+      213: -606028002680201887
+    second: clip (office)_sheet_102
+  - first:
+      213: 938101022578640315
+    second: clip (office)_sheet_103
+  - first:
+      213: 8094628916486816040
+    second: clip (office)_sheet_104
+  - first:
+      213: 4184303148625114880
+    second: clip (office)_sheet_105
+  - first:
+      213: -8815114025165885643
+    second: clip (office)_sheet_106
+  - first:
+      213: 7603270106752300026
+    second: clip (office)_sheet_107
+  - first:
+      213: -7695229280507736730
+    second: clip (office)_sheet_108
+  - first:
+      213: 4815075896231945684
+    second: clip (office)_sheet_109
+  - first:
+      213: 8286350747263532337
+    second: clip (office)_sheet_110
+  - first:
+      213: 1874898281623238024
+    second: clip (office)_sheet_111
+  - first:
+      213: 2229322903438522196
+    second: clip (office)_sheet_112
+  - first:
+      213: -5241266518421075109
+    second: clip (office)_sheet_113
+  - first:
+      213: 5307849567902873183
+    second: clip (office)_sheet_114
+  - first:
+      213: -8525384335560661232
+    second: clip (office)_sheet_115
+  - first:
+      213: 5485271873929363688
+    second: clip (office)_sheet_116
+  - first:
+      213: 4857159412066658571
+    second: clip (office)_sheet_117
+  - first:
+      213: 5199782332402589952
+    second: clip (office)_sheet_118
+  - first:
+      213: -5525670598828385409
+    second: clip (office)_sheet_119
+  - first:
+      213: 662168671076694863
+    second: clip (office)_sheet_120
+  - first:
+      213: -7562888101483760253
+    second: clip (office)_sheet_121
+  - first:
+      213: -3250909560284665609
+    second: clip (office)_sheet_122
+  - first:
+      213: 6283823856644397796
+    second: clip (office)_sheet_123
+  - first:
+      213: -4053406106606366562
+    second: clip (office)_sheet_124
+  - first:
+      213: -5471083246426648060
+    second: clip (office)_sheet_125
+  - first:
+      213: 5865277328490412268
+    second: clip (office)_sheet_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clip (office)_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18580c6ac87fc3c60800000000000000
+      internalID: 7799380838163973505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 56
+        width: 112
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32085010cd830200800000000000000
+      internalID: 145115469053428286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 191
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a52d53982029a460800000000000000
+      internalID: 7253364033500030368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 191
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9231b84428b595e60800000000000000
+      internalID: 7951487232153162537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 192
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ba35e93c886bcd0800000000000000
+      internalID: -2542694565847782499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 190
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9339a0e1d7dc0f70800000000000000
+      internalID: 9154929438954697626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 192
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e5be418fc5632e0800000000000000
+      internalID: -2146425951822848394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 191
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4388c8876b0aae0800000000000000
+      internalID: -1540030443690642231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 191
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e301dd977795670800000000000000
+      internalID: 8527978734686322302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 191
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d063b506b748b250800000000000000
+      internalID: 5960592953930113232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 191
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3b28dd09baa3400800000000000000
+      internalID: 304744563480900536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 191
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e1bda180191c4f0800000000000000
+      internalID: -810206993953644989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 191
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa3958fdb7f65460800000000000000
+      internalID: 7230238647077387002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 191
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1435bc33a80d0c90800000000000000
+      internalID: -7202090731904355297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 191
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d668ef6af35f5160800000000000000
+      internalID: 7016419079550953170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 191
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2e1337b71dd0f90800000000000000
+      internalID: -6985697118837939514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 191
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc243b91ae71188c0800000000000000
+      internalID: -3998888699907325235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 191
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a5251edd3ed33e0800000000000000
+      internalID: -2072249711413011894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 191
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f801509246bde8610800000000000000
+      internalID: 1625477738758738063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 191
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6611f8df633e95f0800000000000000
+      internalID: -748103932622858642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 67
+        width: 94
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a966a0dded80bcc0800000000000000
+      internalID: -3697299241523844695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4377
+        y: 191
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba1fc27685b729c0800000000000000
+      internalID: -3951990558937900358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 191
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11364279f0b244e0800000000000000
+      internalID: -1998840699188530916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4613
+        y: 67
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8321d81fc40682560800000000000000
+      internalID: 7289181880485483064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4853
+        y: 67
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8679e5d8d493567d0800000000000000
+      internalID: -2925869377660217496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 5087
+        y: 57
+        width: 152
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c049676a7a73fc90800000000000000
+      internalID: -7137226318312554296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 6775
+        y: 106
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3627da91bdff68d10800000000000000
+      internalID: 2127669190472856163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 14727
+        y: 185
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90f9e7ffe29eccc0800000000000000
+      internalID: -3688849485415714657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 14967
+        y: 185
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c483ebb3a719b80800000000000000
+      internalID: -8389790233801503604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 16137
+        y: 56
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f9a3b5cc93bf260800000000000000
+      internalID: 7132357984737992517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 16377
+        y: 55
+        width: 104
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511380aae85c455e0800000000000000
+      internalID: -1921693924451667691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 16595
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ae6edf11d5026c0800000000000000
+      internalID: -4170230923089483138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 16835
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d88e79ac7bf89080800000000000000
+      internalID: -9180311327556597547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 51
+        width: 154
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc3413de9f562ab0800000000000000
+      internalID: -5033230397789160268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 51
+        width: 154
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8b176ae1ecc6ba0800000000000000
+      internalID: -6094269564702312267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 59
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c583ebfde0268500800000000000000
+      internalID: 398041823574197698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 59
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bd66413f75721e0800000000000000
+      internalID: -2222711189553095794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 63
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd9c99953432a260800000000000000
+      internalID: 7107300566759153136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 180
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091b62684729e36c0800000000000000
+      internalID: -4161727976479215216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 63
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad51e5f8dd3e49790800000000000000
+      internalID: -7524138536696670758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 180
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c4a3ff220501240800000000000000
+      internalID: 4760392917371735153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 67
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d359f9977fb989fb0800000000000000
+      internalID: -4640787928805567171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 67
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367711b67545b9e70800000000000000
+      internalID: 9122978204604266339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 67
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb4f32ecef3de7f0800000000000000
+      internalID: -581738490220295190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 67
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa60fa128a499490800000000000000
+      internalID: -7739072562001319184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 67
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55285b26e16b1f790800000000000000
+      internalID: -7498011662973828523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 67
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2350b628e7a5b5d20800000000000000
+      internalID: 3268305453987857714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 67
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc2443c9b8375490800000000000000
+      internalID: -7757669462626259748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 67
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc7cd31351dbec10800000000000000
+      internalID: 2083989407334694140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 67
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f1b4bd685624630800000000000000
+      internalID: 3909799056390168360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 5325
+        y: 57
+        width: 154
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a54f79be57d8720800000000000000
+      internalID: 2850063793922529828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 5565
+        y: 57
+        width: 154
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8a41ac46b00be10800000000000000
+      internalID: 2211279944553900266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 6291
+        y: 124
+        width: 98
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d3dbb67cf872930800000000000000
+      internalID: 4118418470922435910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 6534
+        y: 101
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c558cb4c96a26470800000000000000
+      internalID: 8386448646333814211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 14717
+        y: 165
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2342ac8d6b96b60b0800000000000000
+      internalID: -5734373466484104142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 14757
+        y: 176
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c6aed0494a846b0800000000000000
+      internalID: -5311814804687917997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 14957
+        y: 165
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784336a4872967df0800000000000000
+      internalID: -182797689520180089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 14997
+        y: 176
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244930b7b5ad9e590800000000000000
+      internalID: -7644338806043995070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 15173
+        y: 59
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c76cadd823a02b80800000000000000
+      internalID: -8421551907269744699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 15417
+        y: 91
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a184d8a30d10f4e0800000000000000
+      internalID: -1950026737096818266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 15657
+        y: 91
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5908071fe500bb20800000000000000
+      internalID: 3148022663973701979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 15871
+        y: 93
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6940dc9e5db57b140800000000000000
+      internalID: 4735354507512054934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 51
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f689d4b3e29ef90800000000000000
+      internalID: -6923952119865643114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 154
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d9fa14458e29470800000000000000
+      internalID: 8400031703576321346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 153
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6d0ff36e12dffd0800000000000000
+      internalID: -2306650161344883021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 155
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723fcae048d6437a0800000000000000
+      internalID: -6398368756637306073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 155
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db4aaabd0d5c10c0800000000000000
+      internalID: -4603702405531808809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 52
+        width: 152
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d679ad9f3d0f630800000000000000
+      internalID: 3958897142526340416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 6047
+        y: 52
+        width: 152
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e7e65dc807a08b0800000000000000
+      internalID: -5185208270785184251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 6767
+        y: 52
+        width: 150
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29435d62be879b0d0800000000000000
+      internalID: -3406558691764915054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 7017
+        y: 83
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc64a726bc7c9c50800000000000000
+      internalID: 6673345869647211703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 14485
+        y: 159
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56df45c803ea7a90800000000000000
+      internalID: -7315285017900362145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 14745
+        y: 157
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cf9f379cd4eef60800000000000000
+      internalID: 8065469510296665166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 14985
+        y: 156
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00657bc5861760f30800000000000000
+      internalID: 4541441967295780352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 128
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b07a8d26908229c0800000000000000
+      internalID: -3953456140380376904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 83
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77a22bfc45e1ba50800000000000000
+      internalID: 6535256653084927869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 57
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea0e830f100529d0800000000000000
+      internalID: -2799831460137268498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 57
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5405c23bf246780800000000000000
+      internalID: -8690768934329104942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 57
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c63139873b7eaf0800000000000000
+      internalID: -367127514162434919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 57
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b241a01a35b3b9a40800000000000000
+      internalID: 5375955810566935595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 57
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754284c2fe5ac7200800000000000000
+      internalID: 179200531846669399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 57
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bcdeafe27dcfaf0800000000000000
+      internalID: -361177273318126797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 57
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dc7b67ddb10a8a0800000000000000
+      internalID: -6296001641070473941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 57
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33be19729f15330c0800000000000000
+      internalID: -4597240664062563533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 57
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad9b53fcd71b7ae0800000000000000
+      internalID: -1550619408955892311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 57
+        width: 153
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17743cc436099320800000000000000
+      internalID: 2565088286598264602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 57
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e3f2d20afb77320800000000000000
+      internalID: 2555722008229789331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 57
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab30e5537def0b20800000000000000
+      internalID: 3102959747899341742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 6521
+        y: 59
+        width: 160
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236d9a09a59052990800000000000000
+      internalID: -7411507327189526990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 6997
+        y: 62
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbcdeda2a5baea90800000000000000
+      internalID: -7283809737010984006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 7241
+        y: 59
+        width: 160
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb4daacac1de23b0800000000000000
+      internalID: -5535256223077807177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 7486
+        y: 56
+        width: 153
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f3f44d6c469bab0800000000000000
+      internalID: -4991847906835218591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 7725
+        y: 57
+        width: 156
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9bd5ac256d8ed20800000000000000
+      internalID: 3308129577374431700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 7965
+        y: 57
+        width: 155
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09944d724bdd0b30800000000000000
+      internalID: 4255298301550958860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 8205
+        y: 57
+        width: 154
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f30969fca372fae0800000000000000
+      internalID: -1517022937714457616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 8445
+        y: 57
+        width: 154
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5701750c44b134440800000000000000
+      internalID: 4918805200117370997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 8685
+        y: 57
+        width: 154
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac9c73c950752d70800000000000000
+      internalID: 9017737359713410209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 14437
+        y: 62
+        width: 118
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513db132d64c03300800000000000000
+      internalID: 229899554015400725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 14475
+        y: 138
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c3236f73874d00800000000000000
+      internalID: 956878028986893510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 14515
+        y: 152
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab0bb07c1d95dd20800000000000000
+      internalID: 3302718647222078372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 128
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a322172f4f1f1a0800000000000000
+      internalID: -6777366642098554299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 64
+        width: 172
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6193b3ad2e9e6e910800000000000000
+      internalID: 1866436256124844310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 9647
+        y: 56
+        width: 102
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d9e401eb4f697f0800000000000000
+      internalID: -606028002680201887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 9887
+        y: 56
+        width: 102
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb50b36e8edc40d00800000000000000
+      internalID: 938101022578640315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 10124
+        y: 57
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8214dc3cc16e55070800000000000000
+      internalID: 8094628916486816040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 10367
+        y: 57
+        width: 103
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00739565b81a11a30800000000000000
+      internalID: 4184303148625114880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 10605
+        y: 57
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f6c63af7c6aa580800000000000000
+      internalID: -8815114025165885643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 10845
+        y: 57
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af33154d0ed348960800000000000000
+      internalID: 7603270106752300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 11085
+        y: 57
+        width: 106
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dc62e8dbd053590800000000000000
+      internalID: -7695229280507736730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 11326
+        y: 57
+        width: 104
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d56379240692d240800000000000000
+      internalID: 4815075896231945684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 11565
+        y: 57
+        width: 106
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d7fe60a180ff270800000000000000
+      internalID: 8286350747263532337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 11805
+        y: 57
+        width: 106
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885b422bd0af40a10800000000000000
+      internalID: 1874898281623238024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 12045
+        y: 57
+        width: 106
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45778158e5520fe10800000000000000
+      internalID: 2229322903438522196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 12287
+        y: 57
+        width: 104
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b0d54fed74347b0800000000000000
+      internalID: -5241266518421075109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 12525
+        y: 57
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56bf005f0549a940800000000000000
+      internalID: 5307849567902873183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 12765
+        y: 57
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0172a31cd10cfa980800000000000000
+      internalID: -8525384335560661232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 13007
+        y: 57
+        width: 104
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0400605b99f1c40800000000000000
+      internalID: 5485271873929363688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 13247
+        y: 57
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09adad30c8186340800000000000000
+      internalID: 4857159412066658571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 13485
+        y: 57
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00165305b76592840800000000000000
+      internalID: 5199782332402589952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 13725
+        y: 57
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b930bdddfd053b0800000000000000
+      internalID: -5525670598828385409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 13957
+        y: 62
+        width: 118
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b3be4e5ee703900800000000000000
+      internalID: 662168671076694863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 14197
+        y: 62
+        width: 118
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385380377593b0790800000000000000
+      internalID: -7562888101483760253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 14683
+        y: 54
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8af4e9af272e2d0800000000000000
+      internalID: -3250909560284665609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 14923
+        y: 54
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea1a662180a43750800000000000000
+      internalID: 6283823856644397796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 8915
+        y: 57
+        width: 120
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9014553f986fb7c0800000000000000
+      internalID: -4053406106606366562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 9155
+        y: 57
+        width: 120
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402162046cec214b0800000000000000
+      internalID: -5471083246426648060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (office)_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 9391
+        y: 57
+        width: 126
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8b2d997a6a56150800000000000000
+      internalID: 5865277328490412268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clip (office)_sheet_0: 7799380838163973505
+      clip (office)_sheet_1: 145115469053428286
+      clip (office)_sheet_10: 304744563480900536
+      clip (office)_sheet_100: -6777366642098554299
+      clip (office)_sheet_101: 1866436256124844310
+      clip (office)_sheet_102: -606028002680201887
+      clip (office)_sheet_103: 938101022578640315
+      clip (office)_sheet_104: 8094628916486816040
+      clip (office)_sheet_105: 4184303148625114880
+      clip (office)_sheet_106: -8815114025165885643
+      clip (office)_sheet_107: 7603270106752300026
+      clip (office)_sheet_108: -7695229280507736730
+      clip (office)_sheet_109: 4815075896231945684
+      clip (office)_sheet_11: -810206993953644989
+      clip (office)_sheet_110: 8286350747263532337
+      clip (office)_sheet_111: 1874898281623238024
+      clip (office)_sheet_112: 2229322903438522196
+      clip (office)_sheet_113: -5241266518421075109
+      clip (office)_sheet_114: 5307849567902873183
+      clip (office)_sheet_115: -8525384335560661232
+      clip (office)_sheet_116: 5485271873929363688
+      clip (office)_sheet_117: 4857159412066658571
+      clip (office)_sheet_118: 5199782332402589952
+      clip (office)_sheet_119: -5525670598828385409
+      clip (office)_sheet_12: 7230238647077387002
+      clip (office)_sheet_120: 662168671076694863
+      clip (office)_sheet_121: -7562888101483760253
+      clip (office)_sheet_122: -3250909560284665609
+      clip (office)_sheet_123: 6283823856644397796
+      clip (office)_sheet_124: -4053406106606366562
+      clip (office)_sheet_125: -5471083246426648060
+      clip (office)_sheet_126: 5865277328490412268
+      clip (office)_sheet_13: -7202090731904355297
+      clip (office)_sheet_14: 7016419079550953170
+      clip (office)_sheet_15: -6985697118837939514
+      clip (office)_sheet_16: -3998888699907325235
+      clip (office)_sheet_17: -2072249711413011894
+      clip (office)_sheet_18: 1625477738758738063
+      clip (office)_sheet_19: -748103932622858642
+      clip (office)_sheet_2: 7253364033500030368
+      clip (office)_sheet_20: -3697299241523844695
+      clip (office)_sheet_21: -3951990558937900358
+      clip (office)_sheet_22: -1998840699188530916
+      clip (office)_sheet_23: 7289181880485483064
+      clip (office)_sheet_24: -2925869377660217496
+      clip (office)_sheet_25: -7137226318312554296
+      clip (office)_sheet_26: 2127669190472856163
+      clip (office)_sheet_27: -3688849485415714657
+      clip (office)_sheet_28: -8389790233801503604
+      clip (office)_sheet_29: 7132357984737992517
+      clip (office)_sheet_3: 7951487232153162537
+      clip (office)_sheet_30: -1921693924451667691
+      clip (office)_sheet_31: -4170230923089483138
+      clip (office)_sheet_32: -9180311327556597547
+      clip (office)_sheet_33: -5033230397789160268
+      clip (office)_sheet_34: -6094269564702312267
+      clip (office)_sheet_35: 398041823574197698
+      clip (office)_sheet_36: -2222711189553095794
+      clip (office)_sheet_37: 7107300566759153136
+      clip (office)_sheet_38: -4161727976479215216
+      clip (office)_sheet_39: -7524138536696670758
+      clip (office)_sheet_4: -2542694565847782499
+      clip (office)_sheet_40: 4760392917371735153
+      clip (office)_sheet_41: -4640787928805567171
+      clip (office)_sheet_42: 9122978204604266339
+      clip (office)_sheet_43: -581738490220295190
+      clip (office)_sheet_44: -7739072562001319184
+      clip (office)_sheet_45: -7498011662973828523
+      clip (office)_sheet_46: 3268305453987857714
+      clip (office)_sheet_47: -7757669462626259748
+      clip (office)_sheet_48: 2083989407334694140
+      clip (office)_sheet_49: 3909799056390168360
+      clip (office)_sheet_5: 9154929438954697626
+      clip (office)_sheet_50: 2850063793922529828
+      clip (office)_sheet_51: 2211279944553900266
+      clip (office)_sheet_52: 4118418470922435910
+      clip (office)_sheet_53: 8386448646333814211
+      clip (office)_sheet_54: -5734373466484104142
+      clip (office)_sheet_55: -5311814804687917997
+      clip (office)_sheet_56: -182797689520180089
+      clip (office)_sheet_57: -7644338806043995070
+      clip (office)_sheet_58: -8421551907269744699
+      clip (office)_sheet_59: -1950026737096818266
+      clip (office)_sheet_6: -2146425951822848394
+      clip (office)_sheet_60: 3148022663973701979
+      clip (office)_sheet_61: 4735354507512054934
+      clip (office)_sheet_62: -6923952119865643114
+      clip (office)_sheet_63: 8400031703576321346
+      clip (office)_sheet_64: -2306650161344883021
+      clip (office)_sheet_65: -6398368756637306073
+      clip (office)_sheet_66: -4603702405531808809
+      clip (office)_sheet_67: 3958897142526340416
+      clip (office)_sheet_68: -5185208270785184251
+      clip (office)_sheet_69: -3406558691764915054
+      clip (office)_sheet_7: -1540030443690642231
+      clip (office)_sheet_70: 6673345869647211703
+      clip (office)_sheet_71: -7315285017900362145
+      clip (office)_sheet_72: 8065469510296665166
+      clip (office)_sheet_73: 4541441967295780352
+      clip (office)_sheet_74: -3953456140380376904
+      clip (office)_sheet_75: 6535256653084927869
+      clip (office)_sheet_76: -2799831460137268498
+      clip (office)_sheet_77: -8690768934329104942
+      clip (office)_sheet_78: -367127514162434919
+      clip (office)_sheet_79: 5375955810566935595
+      clip (office)_sheet_8: 8527978734686322302
+      clip (office)_sheet_80: 179200531846669399
+      clip (office)_sheet_81: -361177273318126797
+      clip (office)_sheet_82: -6296001641070473941
+      clip (office)_sheet_83: -4597240664062563533
+      clip (office)_sheet_84: -1550619408955892311
+      clip (office)_sheet_85: 2565088286598264602
+      clip (office)_sheet_86: 2555722008229789331
+      clip (office)_sheet_87: 3102959747899341742
+      clip (office)_sheet_88: -7411507327189526990
+      clip (office)_sheet_89: -7283809737010984006
+      clip (office)_sheet_9: 5960592953930113232
+      clip (office)_sheet_90: -5535256223077807177
+      clip (office)_sheet_91: -4991847906835218591
+      clip (office)_sheet_92: 3308129577374431700
+      clip (office)_sheet_93: 4255298301550958860
+      clip (office)_sheet_94: -1517022937714457616
+      clip (office)_sheet_95: 4918805200117370997
+      clip (office)_sheet_96: 9017737359713410209
+      clip (office)_sheet_97: 229899554015400725
+      clip (office)_sheet_98: 956878028986893510
+      clip (office)_sheet_99: 3302718647222078372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

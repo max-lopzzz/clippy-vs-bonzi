@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: d2ce33c8de1bb4c2c89ffb2cf2ddd3de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1055985179008438135
+    second: clip (music)_sheet_0
+  - first:
+      213: 8549455714844744906
+    second: clip (music)_sheet_1
+  - first:
+      213: 8136402100055649844
+    second: clip (music)_sheet_2
+  - first:
+      213: 46869024533631036
+    second: clip (music)_sheet_3
+  - first:
+      213: 4967880613363410618
+    second: clip (music)_sheet_4
+  - first:
+      213: -576433758002092538
+    second: clip (music)_sheet_5
+  - first:
+      213: 148995094279305564
+    second: clip (music)_sheet_6
+  - first:
+      213: -6155367337918675499
+    second: clip (music)_sheet_7
+  - first:
+      213: 7221114180484170366
+    second: clip (music)_sheet_8
+  - first:
+      213: 4874960981758628256
+    second: clip (music)_sheet_9
+  - first:
+      213: 5619184705543000859
+    second: clip (music)_sheet_10
+  - first:
+      213: 3082673733793544159
+    second: clip (music)_sheet_11
+  - first:
+      213: 7098530444834785515
+    second: clip (music)_sheet_12
+  - first:
+      213: -6597989714229699737
+    second: clip (music)_sheet_13
+  - first:
+      213: 8943292079384144497
+    second: clip (music)_sheet_14
+  - first:
+      213: 6418802697175426945
+    second: clip (music)_sheet_15
+  - first:
+      213: 1292727015545207744
+    second: clip (music)_sheet_16
+  - first:
+      213: -4461569230410119315
+    second: clip (music)_sheet_17
+  - first:
+      213: 5566104880576996904
+    second: clip (music)_sheet_18
+  - first:
+      213: 5653217021149480396
+    second: clip (music)_sheet_19
+  - first:
+      213: 1694454393175705064
+    second: clip (music)_sheet_20
+  - first:
+      213: -2086255521295185602
+    second: clip (music)_sheet_21
+  - first:
+      213: -5540885453865320889
+    second: clip (music)_sheet_22
+  - first:
+      213: 1259939809312529609
+    second: clip (music)_sheet_23
+  - first:
+      213: -7522647786104127308
+    second: clip (music)_sheet_24
+  - first:
+      213: -1038783976187697275
+    second: clip (music)_sheet_25
+  - first:
+      213: 8557518358858152786
+    second: clip (music)_sheet_26
+  - first:
+      213: 7527334377816263587
+    second: clip (music)_sheet_27
+  - first:
+      213: -9211981764530841083
+    second: clip (music)_sheet_28
+  - first:
+      213: 1780895827058601477
+    second: clip (music)_sheet_29
+  - first:
+      213: 2115173695860380583
+    second: clip (music)_sheet_30
+  - first:
+      213: -3740485871672546018
+    second: clip (music)_sheet_31
+  - first:
+      213: -9002104777965731835
+    second: clip (music)_sheet_32
+  - first:
+      213: 370894063842018409
+    second: clip (music)_sheet_33
+  - first:
+      213: 1325525174073249279
+    second: clip (music)_sheet_34
+  - first:
+      213: 4633213538076993796
+    second: clip (music)_sheet_35
+  - first:
+      213: -2500588116410094300
+    second: clip (music)_sheet_36
+  - first:
+      213: 6121346826281925353
+    second: clip (music)_sheet_37
+  - first:
+      213: -5839061715755164539
+    second: clip (music)_sheet_38
+  - first:
+      213: -3718926273876467844
+    second: clip (music)_sheet_39
+  - first:
+      213: 1663298070491548608
+    second: clip (music)_sheet_40
+  - first:
+      213: -2483026731250478350
+    second: clip (music)_sheet_41
+  - first:
+      213: -3394339819741463616
+    second: clip (music)_sheet_42
+  - first:
+      213: -5245437923245127270
+    second: clip (music)_sheet_43
+  - first:
+      213: 1514427569745827808
+    second: clip (music)_sheet_44
+  - first:
+      213: -8048204128661052906
+    second: clip (music)_sheet_45
+  - first:
+      213: 5118190236914964428
+    second: clip (music)_sheet_46
+  - first:
+      213: 1575766779830316629
+    second: clip (music)_sheet_47
+  - first:
+      213: 4658143014089975990
+    second: clip (music)_sheet_48
+  - first:
+      213: -2250631843195896164
+    second: clip (music)_sheet_49
+  - first:
+      213: -5863042759725768900
+    second: clip (music)_sheet_50
+  - first:
+      213: 2388839623297617321
+    second: clip (music)_sheet_51
+  - first:
+      213: -7972501174616319650
+    second: clip (music)_sheet_52
+  - first:
+      213: -2092432048743848110
+    second: clip (music)_sheet_53
+  - first:
+      213: -8286861592479084354
+    second: clip (music)_sheet_54
+  - first:
+      213: -2391256926375590148
+    second: clip (music)_sheet_55
+  - first:
+      213: -6889515764918626656
+    second: clip (music)_sheet_56
+  - first:
+      213: -6038112353585749984
+    second: clip (music)_sheet_57
+  - first:
+      213: 5444077077866164933
+    second: clip (music)_sheet_58
+  - first:
+      213: -1335757563323000843
+    second: clip (music)_sheet_59
+  - first:
+      213: 2939249158175145020
+    second: clip (music)_sheet_60
+  - first:
+      213: -2256674879719417741
+    second: clip (music)_sheet_61
+  - first:
+      213: 2344015757744177363
+    second: clip (music)_sheet_62
+  - first:
+      213: 4780216597341533706
+    second: clip (music)_sheet_63
+  - first:
+      213: -5199915417612866725
+    second: clip (music)_sheet_64
+  - first:
+      213: -4007830600518392569
+    second: clip (music)_sheet_65
+  - first:
+      213: -345619887076729527
+    second: clip (music)_sheet_66
+  - first:
+      213: -6115584445497526135
+    second: clip (music)_sheet_67
+  - first:
+      213: -5960455771084967308
+    second: clip (music)_sheet_68
+  - first:
+      213: 8557302467063698692
+    second: clip (music)_sheet_69
+  - first:
+      213: 2110171711287350071
+    second: clip (music)_sheet_70
+  - first:
+      213: 4252799443593676392
+    second: clip (music)_sheet_71
+  - first:
+      213: 1623500104328561680
+    second: clip (music)_sheet_72
+  - first:
+      213: -534775232952864779
+    second: clip (music)_sheet_73
+  - first:
+      213: -9031701389844964581
+    second: clip (music)_sheet_74
+  - first:
+      213: -3573658252559586560
+    second: clip (music)_sheet_75
+  - first:
+      213: -4580837756227944031
+    second: clip (music)_sheet_76
+  - first:
+      213: 621786135490310618
+    second: clip (music)_sheet_77
+  - first:
+      213: 2820201868067601794
+    second: clip (music)_sheet_78
+  - first:
+      213: 9086549605186810392
+    second: clip (music)_sheet_79
+  - first:
+      213: 6324905513310332040
+    second: clip (music)_sheet_80
+  - first:
+      213: 3178911697723747238
+    second: clip (music)_sheet_81
+  - first:
+      213: -3156045133386216288
+    second: clip (music)_sheet_82
+  - first:
+      213: 5010290868914736279
+    second: clip (music)_sheet_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clip (music)_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980ff1513136851f0800000000000000
+      internalID: -1055985179008438135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 52
+        width: 153
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc114afca4c5a670800000000000000
+      internalID: 8549455714844744906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 52
+        width: 153
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e2f8bf99e4ae070800000000000000
+      internalID: 8136402100055649844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 52
+        width: 153
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30db46212386a000800000000000000
+      internalID: 46869024533631036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 51
+        width: 153
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6631ec81571f440800000000000000
+      internalID: 4967880613363410618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606edb91d881008f0800000000000000
+      internalID: -576433758002092538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c593bc3bf36511200800000000000000
+      internalID: 148995094279305564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5c059c40eb39aa0800000000000000
+      internalID: -6155367337918675499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e728b4a861d863460800000000000000
+      internalID: 7221114180484170366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1dc9b2f2757a340800000000000000
+      internalID: 4874960981758628256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13d23dc7ba5bfd40800000000000000
+      internalID: 5619184705543000859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f03d9d6bd7ca20800000000000000
+      internalID: 3082673733793544159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be84ca774db038260800000000000000
+      internalID: 7098530444834785515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b58a3005b3f64a0800000000000000
+      internalID: -6597989714229699737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17aa14a33c4fc1c70800000000000000
+      internalID: 8943292079384144497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187e5787b0b241950800000000000000
+      internalID: 6418802697175426945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb7f191f50b0f110800000000000000
+      internalID: 1292727015545207744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6787906c625512c0800000000000000
+      internalID: -4461569230410119315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8262c5df5e6ce3d40800000000000000
+      internalID: 5566104880576996904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc58ecfbde2447e40800000000000000
+      internalID: 5653217021149480396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e586510b49e38710800000000000000
+      internalID: 1694454393175705064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5075
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39c08628a12c03e0800000000000000
+      internalID: -2086255521295185602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e7a3d5902da13b0800000000000000
+      internalID: -5540885453865320889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5555
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc5274c4943c7110800000000000000
+      internalID: 1259939809312529609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b082eaf1bf2a9790800000000000000
+      internalID: -7522647786104127308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587e6f43a7f7591f0800000000000000
+      internalID: -1038783976187697275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bbf929b9962c670800000000000000
+      internalID: 8557518358858152786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6515
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab035f2cb6767860800000000000000
+      internalID: 7527334377816263587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a53cf6467782080800000000000000
+      internalID: -9211981764530841083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eadc1b15307b810800000000000000
+      internalID: 1780895827058601477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 7235
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3120c054b9a5d10800000000000000
+      internalID: 2115173695860380583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d279beaef171cc0800000000000000
+      internalID: -3740485871672546018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 7715
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500818e4669121380800000000000000
+      internalID: -9002104777965731835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 7955
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964ca9c9f2ea52500800000000000000
+      internalID: 370894063842018409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 8195
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd49757f16356210800000000000000
+      internalID: 1325525174073249279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 8435
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4092c914a2b7c4040800000000000000
+      internalID: 4633213538076993796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 8675
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d20d75b502c4dd0800000000000000
+      internalID: -2500588116410094300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 8915
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eabf77918463f450800000000000000
+      internalID: 6121346826281925353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 9155
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c94d26e4c77fea0800000000000000
+      internalID: -5839061715755164539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 9395
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fd9b3f148b36cc0800000000000000
+      internalID: -3718926273876467844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 9635
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbcd3758c8351710800000000000000
+      internalID: 1663298070491548608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 9875
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f21404f7548a8dd0800000000000000
+      internalID: -2483026731250478350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 10115
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbb85dfae1e4e0d0800000000000000
+      internalID: -3394339819741463616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 10355
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a998c9510067437b0800000000000000
+      internalID: -5245437923245127270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 10595
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e712c4d9d3540510800000000000000
+      internalID: 1514427569745827808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 10835
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61263577cf80f4090800000000000000
+      internalID: -8048204128661052906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 11075
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7503437e6770740800000000000000
+      internalID: 5118190236914964428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 11315
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ea5a8998f3ed510800000000000000
+      internalID: 1575766779830316629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 11555
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8ecc3346c05a040800000000000000
+      internalID: 4658143014089975990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 11795
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e3022534624c0e0800000000000000
+      internalID: -2250631843195896164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 12035
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f9e9b7ca942aea0800000000000000
+      internalID: -5863042759725768900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 12275
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad48041bfcd62120800000000000000
+      internalID: 2388839623297617321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 12515
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e591c9bfb6cfb5190800000000000000
+      internalID: -7972501174616319650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 12755
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257eaf9432036f2e0800000000000000
+      internalID: -2092432048743848110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 12995
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0d47d89472ffc80800000000000000
+      internalID: -8286861592479084354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 13235
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6c0b0be7c80ded0800000000000000
+      internalID: -2391256926375590148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 13475
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6529df9e58360a0800000000000000
+      internalID: -6889515764918626656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 13715
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020af924ec0543ca0800000000000000
+      internalID: -6038112353585749984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 13955
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c23f04224f3d8b40800000000000000
+      internalID: 5444077077866164933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 14195
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f75714c29f667de0800000000000000
+      internalID: -1335757563323000843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 14435
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c356b598f4ac820800000000000000
+      internalID: 2939249158175145020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 14675
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378d6cc372eaea0e0800000000000000
+      internalID: -2256674879719417741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 14915
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0824c99ed978020800000000000000
+      internalID: 2344015757744177363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 15155
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06f7f92badb65240800000000000000
+      internalID: 4780216597341533706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 15395
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bab1f5a7036d7b0800000000000000
+      internalID: -5199915417612866725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 15635
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7052920ad435168c0800000000000000
+      internalID: -4007830600518392569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 15875
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d1b7b3b8c143bf0800000000000000
+      internalID: -345619887076729527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 16115
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988373c3954112ba0800000000000000
+      internalID: -6115584445497526135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 16355
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472bd095e05384da0800000000000000
+      internalID: -5960455771084967308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 16595
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405d7e85145a1c670800000000000000
+      internalID: 8557302467063698692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 16835
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7335c52cdf5d84d10800000000000000
+      internalID: 2110171711287350071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 17075
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8664168cf8af40b30800000000000000
+      internalID: 4252799443593676392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 17315
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01440534eb4d78610800000000000000
+      internalID: 1623500104328561680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 17555
+        y: 51
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffea2d42c81498f0800000000000000
+      internalID: -534775232952864779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 17795
+        y: 50
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b93ec1073f8a280800000000000000
+      internalID: -9031701389844964581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 18035
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bea8bd0c0d76ec0800000000000000
+      internalID: -3573658252559586560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 18275
+        y: 51
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1065eb4589d60c0800000000000000
+      internalID: -4580837756227944031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 18515
+        y: 51
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1b924223701a800800000000000000
+      internalID: 621786135490310618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 18755
+        y: 51
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dff0d28ae532720800000000000000
+      internalID: 2820201868067601794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 18994
+        y: 52
+        width: 153
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812302b29b8e91e70800000000000000
+      internalID: 9086549605186810392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 19234
+        y: 52
+        width: 153
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884a5c6bd0496c750800000000000000
+      internalID: 6324905513310332040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 19474
+        y: 52
+        width: 153
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab6823b853cd1c20800000000000000
+      internalID: 3178911697723747238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 19715
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac0a613ca97334d0800000000000000
+      internalID: -3156045133386216288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (music)_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 19955
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ccb07eff0288540800000000000000
+      internalID: 5010290868914736279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clip (music)_sheet_0: -1055985179008438135
+      clip (music)_sheet_1: 8549455714844744906
+      clip (music)_sheet_10: 5619184705543000859
+      clip (music)_sheet_11: 3082673733793544159
+      clip (music)_sheet_12: 7098530444834785515
+      clip (music)_sheet_13: -6597989714229699737
+      clip (music)_sheet_14: 8943292079384144497
+      clip (music)_sheet_15: 6418802697175426945
+      clip (music)_sheet_16: 1292727015545207744
+      clip (music)_sheet_17: -4461569230410119315
+      clip (music)_sheet_18: 5566104880576996904
+      clip (music)_sheet_19: 5653217021149480396
+      clip (music)_sheet_2: 8136402100055649844
+      clip (music)_sheet_20: 1694454393175705064
+      clip (music)_sheet_21: -2086255521295185602
+      clip (music)_sheet_22: -5540885453865320889
+      clip (music)_sheet_23: 1259939809312529609
+      clip (music)_sheet_24: -7522647786104127308
+      clip (music)_sheet_25: -1038783976187697275
+      clip (music)_sheet_26: 8557518358858152786
+      clip (music)_sheet_27: 7527334377816263587
+      clip (music)_sheet_28: -9211981764530841083
+      clip (music)_sheet_29: 1780895827058601477
+      clip (music)_sheet_3: 46869024533631036
+      clip (music)_sheet_30: 2115173695860380583
+      clip (music)_sheet_31: -3740485871672546018
+      clip (music)_sheet_32: -9002104777965731835
+      clip (music)_sheet_33: 370894063842018409
+      clip (music)_sheet_34: 1325525174073249279
+      clip (music)_sheet_35: 4633213538076993796
+      clip (music)_sheet_36: -2500588116410094300
+      clip (music)_sheet_37: 6121346826281925353
+      clip (music)_sheet_38: -5839061715755164539
+      clip (music)_sheet_39: -3718926273876467844
+      clip (music)_sheet_4: 4967880613363410618
+      clip (music)_sheet_40: 1663298070491548608
+      clip (music)_sheet_41: -2483026731250478350
+      clip (music)_sheet_42: -3394339819741463616
+      clip (music)_sheet_43: -5245437923245127270
+      clip (music)_sheet_44: 1514427569745827808
+      clip (music)_sheet_45: -8048204128661052906
+      clip (music)_sheet_46: 5118190236914964428
+      clip (music)_sheet_47: 1575766779830316629
+      clip (music)_sheet_48: 4658143014089975990
+      clip (music)_sheet_49: -2250631843195896164
+      clip (music)_sheet_5: -576433758002092538
+      clip (music)_sheet_50: -5863042759725768900
+      clip (music)_sheet_51: 2388839623297617321
+      clip (music)_sheet_52: -7972501174616319650
+      clip (music)_sheet_53: -2092432048743848110
+      clip (music)_sheet_54: -8286861592479084354
+      clip (music)_sheet_55: -2391256926375590148
+      clip (music)_sheet_56: -6889515764918626656
+      clip (music)_sheet_57: -6038112353585749984
+      clip (music)_sheet_58: 5444077077866164933
+      clip (music)_sheet_59: -1335757563323000843
+      clip (music)_sheet_6: 148995094279305564
+      clip (music)_sheet_60: 2939249158175145020
+      clip (music)_sheet_61: -2256674879719417741
+      clip (music)_sheet_62: 2344015757744177363
+      clip (music)_sheet_63: 4780216597341533706
+      clip (music)_sheet_64: -5199915417612866725
+      clip (music)_sheet_65: -4007830600518392569
+      clip (music)_sheet_66: -345619887076729527
+      clip (music)_sheet_67: -6115584445497526135
+      clip (music)_sheet_68: -5960455771084967308
+      clip (music)_sheet_69: 8557302467063698692
+      clip (music)_sheet_7: -6155367337918675499
+      clip (music)_sheet_70: 2110171711287350071
+      clip (music)_sheet_71: 4252799443593676392
+      clip (music)_sheet_72: 1623500104328561680
+      clip (music)_sheet_73: -534775232952864779
+      clip (music)_sheet_74: -9031701389844964581
+      clip (music)_sheet_75: -3573658252559586560
+      clip (music)_sheet_76: -4580837756227944031
+      clip (music)_sheet_77: 621786135490310618
+      clip (music)_sheet_78: 2820201868067601794
+      clip (music)_sheet_79: 9086549605186810392
+      clip (music)_sheet_8: 7221114180484170366
+      clip (music)_sheet_80: 6324905513310332040
+      clip (music)_sheet_81: 3178911697723747238
+      clip (music)_sheet_82: -3156045133386216288
+      clip (music)_sheet_83: 5010290868914736279
+      clip (music)_sheet_9: 4874960981758628256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

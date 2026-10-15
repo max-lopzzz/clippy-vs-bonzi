@@ -1,0 +1,4498 @@
+fileFormatVersion: 2
+guid: c9118217c40b541d498b58017a9b7a83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2155468381367167761
+    second: clip (showel)_sheet_0
+  - first:
+      213: 1439310371521744829
+    second: clip (showel)_sheet_1
+  - first:
+      213: 1858834147055537106
+    second: clip (showel)_sheet_2
+  - first:
+      213: -5576582505798709267
+    second: clip (showel)_sheet_3
+  - first:
+      213: 1187153499786975205
+    second: clip (showel)_sheet_4
+  - first:
+      213: 1881851388462609231
+    second: clip (showel)_sheet_5
+  - first:
+      213: -7069232995276338077
+    second: clip (showel)_sheet_6
+  - first:
+      213: 6942450056243249840
+    second: clip (showel)_sheet_7
+  - first:
+      213: 8769625958532744780
+    second: clip (showel)_sheet_8
+  - first:
+      213: -8246198002518201592
+    second: clip (showel)_sheet_9
+  - first:
+      213: -4928605290113970406
+    second: clip (showel)_sheet_10
+  - first:
+      213: -4890497874233900722
+    second: clip (showel)_sheet_11
+  - first:
+      213: 7894038185228870785
+    second: clip (showel)_sheet_12
+  - first:
+      213: -8785299163883870742
+    second: clip (showel)_sheet_13
+  - first:
+      213: 3155457663695179943
+    second: clip (showel)_sheet_14
+  - first:
+      213: -8694007039039000677
+    second: clip (showel)_sheet_15
+  - first:
+      213: -1660040461699687819
+    second: clip (showel)_sheet_16
+  - first:
+      213: -2954488134228655644
+    second: clip (showel)_sheet_17
+  - first:
+      213: 8876808320098478187
+    second: clip (showel)_sheet_18
+  - first:
+      213: 7786870164075276546
+    second: clip (showel)_sheet_19
+  - first:
+      213: 6244197624673857455
+    second: clip (showel)_sheet_20
+  - first:
+      213: 1434927428729319239
+    second: clip (showel)_sheet_21
+  - first:
+      213: 8383316849410390695
+    second: clip (showel)_sheet_22
+  - first:
+      213: 3109310732317321463
+    second: clip (showel)_sheet_23
+  - first:
+      213: -2417720097208525156
+    second: clip (showel)_sheet_24
+  - first:
+      213: -5042214996735998638
+    second: clip (showel)_sheet_25
+  - first:
+      213: 2838269162194966233
+    second: clip (showel)_sheet_26
+  - first:
+      213: -4098916547322509142
+    second: clip (showel)_sheet_27
+  - first:
+      213: 8952770256624556127
+    second: clip (showel)_sheet_28
+  - first:
+      213: -6808618655496035197
+    second: clip (showel)_sheet_29
+  - first:
+      213: -4734111350153977362
+    second: clip (showel)_sheet_30
+  - first:
+      213: -5426436410159821023
+    second: clip (showel)_sheet_31
+  - first:
+      213: -8622192421240326860
+    second: clip (showel)_sheet_32
+  - first:
+      213: 2850228488450635067
+    second: clip (showel)_sheet_33
+  - first:
+      213: 8677286060334587853
+    second: clip (showel)_sheet_34
+  - first:
+      213: -2502709096086965064
+    second: clip (showel)_sheet_35
+  - first:
+      213: -1145549116037247794
+    second: clip (showel)_sheet_36
+  - first:
+      213: -3324165267488698143
+    second: clip (showel)_sheet_37
+  - first:
+      213: -3877132716322635397
+    second: clip (showel)_sheet_38
+  - first:
+      213: 6295398267090078180
+    second: clip (showel)_sheet_39
+  - first:
+      213: 421973938236439082
+    second: clip (showel)_sheet_40
+  - first:
+      213: -5272018714661205570
+    second: clip (showel)_sheet_41
+  - first:
+      213: 5727352279923556057
+    second: clip (showel)_sheet_42
+  - first:
+      213: 3773996904001748623
+    second: clip (showel)_sheet_43
+  - first:
+      213: 5768213417743489314
+    second: clip (showel)_sheet_44
+  - first:
+      213: -6617016044854248591
+    second: clip (showel)_sheet_45
+  - first:
+      213: -8496803278501843194
+    second: clip (showel)_sheet_46
+  - first:
+      213: -7178466995168764087
+    second: clip (showel)_sheet_47
+  - first:
+      213: -8938327852341955792
+    second: clip (showel)_sheet_48
+  - first:
+      213: -4377271655125400613
+    second: clip (showel)_sheet_49
+  - first:
+      213: -2590969321381194768
+    second: clip (showel)_sheet_50
+  - first:
+      213: -8241658162373153289
+    second: clip (showel)_sheet_51
+  - first:
+      213: -5967576519961814137
+    second: clip (showel)_sheet_52
+  - first:
+      213: -7383279993695245315
+    second: clip (showel)_sheet_53
+  - first:
+      213: -381573289081112866
+    second: clip (showel)_sheet_54
+  - first:
+      213: 3810018106715113815
+    second: clip (showel)_sheet_55
+  - first:
+      213: 4525544384392611947
+    second: clip (showel)_sheet_56
+  - first:
+      213: 7404419170959158953
+    second: clip (showel)_sheet_57
+  - first:
+      213: -8928821285604460236
+    second: clip (showel)_sheet_58
+  - first:
+      213: -5222459401888080988
+    second: clip (showel)_sheet_59
+  - first:
+      213: -2600469272546170365
+    second: clip (showel)_sheet_60
+  - first:
+      213: -1419470526935581221
+    second: clip (showel)_sheet_61
+  - first:
+      213: 2058138372039296446
+    second: clip (showel)_sheet_62
+  - first:
+      213: 1292505353980545198
+    second: clip (showel)_sheet_63
+  - first:
+      213: 6788786102234864255
+    second: clip (showel)_sheet_64
+  - first:
+      213: 7013446729494647446
+    second: clip (showel)_sheet_65
+  - first:
+      213: 3346846211434143280
+    second: clip (showel)_sheet_66
+  - first:
+      213: -3851079073626328673
+    second: clip (showel)_sheet_67
+  - first:
+      213: 5075878429261464803
+    second: clip (showel)_sheet_68
+  - first:
+      213: -3322837386432224913
+    second: clip (showel)_sheet_69
+  - first:
+      213: 8659734898083345548
+    second: clip (showel)_sheet_70
+  - first:
+      213: -8394117275747313661
+    second: clip (showel)_sheet_71
+  - first:
+      213: -1097922609923985332
+    second: clip (showel)_sheet_72
+  - first:
+      213: -3242794760912082358
+    second: clip (showel)_sheet_73
+  - first:
+      213: -2140253270601238229
+    second: clip (showel)_sheet_74
+  - first:
+      213: 1979625539492458502
+    second: clip (showel)_sheet_75
+  - first:
+      213: -4438911229190180174
+    second: clip (showel)_sheet_76
+  - first:
+      213: 3589047964204306767
+    second: clip (showel)_sheet_77
+  - first:
+      213: 4210726882420150323
+    second: clip (showel)_sheet_78
+  - first:
+      213: 444128174809072103
+    second: clip (showel)_sheet_79
+  - first:
+      213: -7212542860137569509
+    second: clip (showel)_sheet_80
+  - first:
+      213: -7200505978452159376
+    second: clip (showel)_sheet_81
+  - first:
+      213: 7731831094736564962
+    second: clip (showel)_sheet_82
+  - first:
+      213: 5446543028244371315
+    second: clip (showel)_sheet_83
+  - first:
+      213: 3734406372881053566
+    second: clip (showel)_sheet_84
+  - first:
+      213: 443652072346142433
+    second: clip (showel)_sheet_85
+  - first:
+      213: -7540562400333064633
+    second: clip (showel)_sheet_86
+  - first:
+      213: 1856595161841189044
+    second: clip (showel)_sheet_87
+  - first:
+      213: -7551392563667407780
+    second: clip (showel)_sheet_88
+  - first:
+      213: 8738090556940084959
+    second: clip (showel)_sheet_89
+  - first:
+      213: 4439898873235925645
+    second: clip (showel)_sheet_90
+  - first:
+      213: -8631413620427225520
+    second: clip (showel)_sheet_91
+  - first:
+      213: 1659326351760874412
+    second: clip (showel)_sheet_92
+  - first:
+      213: -8535135013365268379
+    second: clip (showel)_sheet_93
+  - first:
+      213: -2058172799595764172
+    second: clip (showel)_sheet_94
+  - first:
+      213: 6946744345886664964
+    second: clip (showel)_sheet_95
+  - first:
+      213: 7831517868177684042
+    second: clip (showel)_sheet_96
+  - first:
+      213: -5684847036857744109
+    second: clip (showel)_sheet_97
+  - first:
+      213: -921686486577707093
+    second: clip (showel)_sheet_98
+  - first:
+      213: -2957455301286192768
+    second: clip (showel)_sheet_99
+  - first:
+      213: 38606721263316352
+    second: clip (showel)_sheet_100
+  - first:
+      213: -3931451346294299764
+    second: clip (showel)_sheet_101
+  - first:
+      213: -7085216945502703715
+    second: clip (showel)_sheet_102
+  - first:
+      213: 1987508340110386229
+    second: clip (showel)_sheet_103
+  - first:
+      213: 2873584841053658988
+    second: clip (showel)_sheet_104
+  - first:
+      213: -3146230846926972243
+    second: clip (showel)_sheet_105
+  - first:
+      213: -3966553509398218930
+    second: clip (showel)_sheet_106
+  - first:
+      213: 4590239448203822792
+    second: clip (showel)_sheet_107
+  - first:
+      213: 684481400026981799
+    second: clip (showel)_sheet_108
+  - first:
+      213: 6944641980151181462
+    second: clip (showel)_sheet_109
+  - first:
+      213: -3245585102603603158
+    second: clip (showel)_sheet_110
+  - first:
+      213: 7970252855979928615
+    second: clip (showel)_sheet_111
+  - first:
+      213: 222034552553912312
+    second: clip (showel)_sheet_112
+  - first:
+      213: 3009796188568638740
+    second: clip (showel)_sheet_113
+  - first:
+      213: 9111384124087306139
+    second: clip (showel)_sheet_114
+  - first:
+      213: 3861555084185914941
+    second: clip (showel)_sheet_115
+  - first:
+      213: 811692365752560794
+    second: clip (showel)_sheet_116
+  - first:
+      213: -8164618130258913837
+    second: clip (showel)_sheet_117
+  - first:
+      213: -2483484341986865462
+    second: clip (showel)_sheet_118
+  - first:
+      213: -2447222762868249885
+    second: clip (showel)_sheet_119
+  - first:
+      213: -3393066007007880801
+    second: clip (showel)_sheet_120
+  - first:
+      213: 2702196987658856182
+    second: clip (showel)_sheet_121
+  - first:
+      213: 684868645667043798
+    second: clip (showel)_sheet_122
+  - first:
+      213: -3591152684854372861
+    second: clip (showel)_sheet_123
+  - first:
+      213: 2248725745624531825
+    second: clip (showel)_sheet_124
+  - first:
+      213: 4025251729086772730
+    second: clip (showel)_sheet_125
+  - first:
+      213: 1946498298193770238
+    second: clip (showel)_sheet_126
+  - first:
+      213: -246200917268410786
+    second: clip (showel)_sheet_127
+  - first:
+      213: 4646706355780939183
+    second: clip (showel)_sheet_128
+  - first:
+      213: -6410583853057034054
+    second: clip (showel)_sheet_129
+  - first:
+      213: 6500983448783410711
+    second: clip (showel)_sheet_130
+  - first:
+      213: 1814930586486441394
+    second: clip (showel)_sheet_131
+  - first:
+      213: 5700851450427225383
+    second: clip (showel)_sheet_132
+  - first:
+      213: 5148556019408108778
+    second: clip (showel)_sheet_133
+  - first:
+      213: -3668842287019432928
+    second: clip (showel)_sheet_134
+  - first:
+      213: -668871022665199351
+    second: clip (showel)_sheet_135
+  - first:
+      213: -4062537332384641767
+    second: clip (showel)_sheet_136
+  - first:
+      213: -7285218755806112658
+    second: clip (showel)_sheet_137
+  - first:
+      213: -308159992856189045
+    second: clip (showel)_sheet_138
+  - first:
+      213: -2381028510794858265
+    second: clip (showel)_sheet_139
+  - first:
+      213: 3165253246973484571
+    second: clip (showel)_sheet_140
+  - first:
+      213: 3932785446476295862
+    second: clip (showel)_sheet_141
+  - first:
+      213: 1399182909108381286
+    second: clip (showel)_sheet_142
+  - first:
+      213: 5791427985851599495
+    second: clip (showel)_sheet_143
+  - first:
+      213: -7514944650907090596
+    second: clip (showel)_sheet_144
+  - first:
+      213: 7353856171426322443
+    second: clip (showel)_sheet_145
+  - first:
+      213: -49460749558686940
+    second: clip (showel)_sheet_146
+  - first:
+      213: -4868748119640562991
+    second: clip (showel)_sheet_147
+  - first:
+      213: 2776344388139136759
+    second: clip (showel)_sheet_148
+  - first:
+      213: -4743230110053554960
+    second: clip (showel)_sheet_149
+  - first:
+      213: -8461995201503060519
+    second: clip (showel)_sheet_150
+  - first:
+      213: -8942675559253326980
+    second: clip (showel)_sheet_151
+  - first:
+      213: 6309275569239566541
+    second: clip (showel)_sheet_152
+  - first:
+      213: 4636487949904508460
+    second: clip (showel)_sheet_153
+  - first:
+      213: 6857716303927393951
+    second: clip (showel)_sheet_154
+  - first:
+      213: -2312470495415382948
+    second: clip (showel)_sheet_155
+  - first:
+      213: -9083610704452808399
+    second: clip (showel)_sheet_156
+  - first:
+      213: 8418654485639158684
+    second: clip (showel)_sheet_157
+  - first:
+      213: 2145009099411823495
+    second: clip (showel)_sheet_158
+  - first:
+      213: 2165141237164318180
+    second: clip (showel)_sheet_159
+  - first:
+      213: 5264085313868690622
+    second: clip (showel)_sheet_160
+  - first:
+      213: -4899691586550982169
+    second: clip (showel)_sheet_161
+  - first:
+      213: 3812609016725389871
+    second: clip (showel)_sheet_162
+  - first:
+      213: -8731466958123022770
+    second: clip (showel)_sheet_163
+  - first:
+      213: -3127066683137632531
+    second: clip (showel)_sheet_164
+  - first:
+      213: 1215922746918011711
+    second: clip (showel)_sheet_165
+  - first:
+      213: -7120004456308755896
+    second: clip (showel)_sheet_166
+  - first:
+      213: -3216352913855538342
+    second: clip (showel)_sheet_167
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clip (showel)_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11be9fb9213c9ed10800000000000000
+      internalID: 2155468381367167761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 167
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfc618382579f310800000000000000
+      internalID: 1439310371521744829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 165
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db8c97eec7ebc910800000000000000
+      internalID: 1858834147055537106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 167
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defc539c1cffb92b0800000000000000
+      internalID: -5576582505798709267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 165
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e71aa871dd997010800000000000000
+      internalID: 1187153499786975205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 51
+        width: 156
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43b3690eddad1a10800000000000000
+      internalID: 1881851388462609231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 74
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c45129b0a05ed90800000000000000
+      internalID: -7069232995276338077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 74
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b205412b89885060800000000000000
+      internalID: 6942450056243249840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 67
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4683678858f3b970800000000000000
+      internalID: 8769625958532744780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 87
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bed506b9e9f8d80800000000000000
+      internalID: -8246198002518201592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 87
+        width: 84
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f45acf9931a9bb0800000000000000
+      internalID: -4928605290113970406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 69
+        width: 142
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e414c772816712cb0800000000000000
+      internalID: -4890497874233900722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 63
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184afe1b7e14d8d60800000000000000
+      internalID: 7894038185228870785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 63
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae56a2bf4f8541680800000000000000
+      internalID: -8785299163883870742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 61
+        width: 132
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0d55cd6007acb20800000000000000
+      internalID: 3155457663695179943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 58
+        width: 138
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fa55b29aea85780800000000000000
+      internalID: -8694007039039000677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 58
+        width: 138
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a5d9fcef956f8e0800000000000000
+      internalID: -1660040461699687819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 56
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1c13a02bc8ff6d0800000000000000
+      internalID: -2954488134228655644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 56
+        width: 140
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a3b2c222c03b70800000000000000
+      internalID: 8876808320098478187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 56
+        width: 140
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2096bc95825801c60800000000000000
+      internalID: 7786870164075276546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 58
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafe50e08a8d7a650800000000000000
+      internalID: 6244197624673857455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4612
+        y: 61
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f20e3d4e2e9e310800000000000000
+      internalID: 1434927428729319239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4852
+        y: 61
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa37a00246875470800000000000000
+      internalID: 8383316849410390695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5107
+        y: 74
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8651023ad762b20800000000000000
+      internalID: 3109310732317321463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5347
+        y: 67
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e10979168827ed0800000000000000
+      internalID: -2417720097208525156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 67
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255476edc24760ab0800000000000000
+      internalID: -5042214996735998638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 59
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d69395e3ce836720800000000000000
+      internalID: 2838269162194966233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 64
+        width: 126
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa80fd00e19bd17c0800000000000000
+      internalID: -4098916547322509142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 6289
+        y: 64
+        width: 127
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f581ac55d11ae3c70800000000000000
+      internalID: 8952770256624556127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 6543
+        y: 61
+        width: 86
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384af0c086de281a0800000000000000
+      internalID: -6808618655496035197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 6785
+        y: 58
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee16de63fce0d4eb0800000000000000
+      internalID: -4734111350153977362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 7025
+        y: 58
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f8d20e5dc61b4b0800000000000000
+      internalID: -5426436410159821023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 7963
+        y: 58
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435b7eadca1d75880800000000000000
+      internalID: -8622192421240326860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 8205
+        y: 61
+        width: 126
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b357cc685bb0e8720800000000000000
+      internalID: 2850228488450635067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 8445
+        y: 61
+        width: 126
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf11b892b9eb6870800000000000000
+      internalID: 8677286060334587853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 8707
+        y: 78
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4f8974657944dd0800000000000000
+      internalID: -2502709096086965064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 8939
+        y: 87
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc46d9f5213a10f0800000000000000
+      internalID: -1145549116037247794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 9179
+        y: 87
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e015a82d413ed1d0800000000000000
+      internalID: -3324165267488698143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 9423
+        y: 69
+        width: 125
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b714b802658a13ac0800000000000000
+      internalID: -3877132716322635397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 9643
+        y: 63
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e983859e5fbd5750800000000000000
+      internalID: 6295398267090078180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 9883
+        y: 63
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a3e05af072bd500800000000000000
+      internalID: 421973938236439082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 10123
+        y: 63
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9486f49e606d6b0800000000000000
+      internalID: -5272018714661205570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 10337
+        y: 61
+        width: 132
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9defd54cd84ab7f40800000000000000
+      internalID: 5727352279923556057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 10577
+        y: 61
+        width: 132
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eb27e403eef5430800000000000000
+      internalID: 3773996904001748623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 10813
+        y: 57
+        width: 138
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2291e39ca8fcc0050800000000000000
+      internalID: 5768213417743489314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 11055
+        y: 56
+        width: 143
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bf66537f2ab24a0800000000000000
+      internalID: -6617016044854248591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 11295
+        y: 56
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fe58aaf6a451a80800000000000000
+      internalID: -8496803278501843194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 11555
+        y: 55
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f99111d46f06c90800000000000000
+      internalID: -7178466995168764087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 11803
+        y: 58
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0337d23fc2ea4f380800000000000000
+      internalID: -8938327852341955792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 12043
+        y: 58
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd34dd61f9ec043c0800000000000000
+      internalID: -4377271655125400613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 12292
+        y: 60
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3932731270b0cd0800000000000000
+      internalID: -2590969321381194768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 12547
+        y: 75
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdac87419fbf9d80800000000000000
+      internalID: -8241658162373153289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 12786
+        y: 75
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bd6bdc5c8ee2da0800000000000000
+      internalID: -5967576519961814137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 13027
+        y: 67
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbeb8ac6f1598990800000000000000
+      internalID: -7383279993695245315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 13263
+        y: 59
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6fa808d1164baf0800000000000000
+      internalID: -381573289081112866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 13503
+        y: 59
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7598f8e1847efd430800000000000000
+      internalID: 3810018106715113815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 13729
+        y: 64
+        width: 126
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b684cf6e3a6fdce30800000000000000
+      internalID: 4525544384392611947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 13984
+        y: 61
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeec157108c1c660800000000000000
+      internalID: 7404419170959158953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 14225
+        y: 61
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43979900954761480800000000000000
+      internalID: -8928821285604460236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 14465
+        y: 58
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abdf8008d81687b0800000000000000
+      internalID: -5222459401888080988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 15403
+        y: 58
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a219879f649ebd0800000000000000
+      internalID: -2600469272546170365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 15645
+        y: 61
+        width: 126
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd3ed093170d4ce0800000000000000
+      internalID: -1419470526935581221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 15885
+        y: 61
+        width: 126
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5c004e1f9ff8c10800000000000000
+      internalID: 2058138372039296446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 16147
+        y: 78
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea80d4e75c6efe110800000000000000
+      internalID: 1292505353980545198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 16379
+        y: 87
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a51dfcdfc963e50800000000000000
+      internalID: 6788786102234864255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 16623
+        y: 69
+        width: 125
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69257a244a4c45160800000000000000
+      internalID: 7013446729494647446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 16863
+        y: 69
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ed46e95e2627e20800000000000000
+      internalID: 3346846211434143280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 17083
+        y: 64
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91ff868cf73e8ac0800000000000000
+      internalID: -3851079073626328673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 17297
+        y: 58
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4823bc984217640800000000000000
+      internalID: 5075878429261464803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 17537
+        y: 58
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61e15f8009e2e1d0800000000000000
+      internalID: -3322837386432224913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 17779
+        y: 54
+        width: 148
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84bf41320f8d2870800000000000000
+      internalID: 8659734898083345548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 18019
+        y: 54
+        width: 148
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3089c18cfca128b80800000000000000
+      internalID: -8394117275747313661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 18279
+        y: 53
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c407c9c043563c0f0800000000000000
+      internalID: -1097922609923985332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 18522
+        y: 54
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a665498574ff2d0800000000000000
+      internalID: -3242794760912082358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 18762
+        y: 54
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29f17c6dfa4c42e0800000000000000
+      internalID: -2140253270601238229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 19017
+        y: 58
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6003dbd80fa097b10800000000000000
+      internalID: 1979625539492458502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 19257
+        y: 63
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b270a261c1d562c0800000000000000
+      internalID: -4438911229190180174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 19497
+        y: 63
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f419c3c9b1cdec130800000000000000
+      internalID: 3589047964204306767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 19715
+        y: 51
+        width: 154
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33057d84ac18f6a30800000000000000
+      internalID: 4210726882420150323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 19955
+        y: 50
+        width: 156
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1cc3ec83cd92600800000000000000
+      internalID: 444128174809072103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 20196
+        y: 50
+        width: 153
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13683e7b76e7eb90800000000000000
+      internalID: -7212542860137569509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 20241
+        y: 170
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074584766f9a21c90800000000000000
+      internalID: -7200505978452159376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 20269
+        y: 168
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2b7196a6bfc4b60800000000000000
+      internalID: 7731831094736564962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 51
+        width: 154
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377d264f602069b40800000000000000
+      internalID: 5446543028244371315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 51
+        width: 154
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77b7867fc643d330800000000000000
+      internalID: 3734406372881053566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 91
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6ce00953b282600800000000000000
+      internalID: 443652072346142433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 98
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7461b71d27a8a5790800000000000000
+      internalID: -7540562400333064633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 98
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0c0498673f3c910800000000000000
+      internalID: 1856595161841189044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 106
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ce31be870143790800000000000000
+      internalID: -7551392563667407780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 6655
+        y: 104
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6eb9da01fe34970800000000000000
+      internalID: 8738090556940084959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 6763
+        y: 82
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a62e96080bd9d30800000000000000
+      internalID: 4439898873235925645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 6889
+        y: 104
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05687fc1b0f073880800000000000000
+      internalID: -8631413620427225520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 82
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabd623868c170710800000000000000
+      internalID: 1659326351760874412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 7129
+        y: 104
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5604d5a2deb1d8980800000000000000
+      internalID: -8535135013365268379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 7243
+        y: 56
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43629b15eb6ef63e0800000000000000
+      internalID: -2058172799595764172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 7361
+        y: 105
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409270a5d2bc76060800000000000000
+      internalID: 6946744345886664964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 7483
+        y: 56
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46fad802042fac60800000000000000
+      internalID: 7831517868177684042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 7587
+        y: 117
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31589a55dbd5b11b0800000000000000
+      internalID: -5684847036857744109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 7723
+        y: 56
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7024516038533f0800000000000000
+      internalID: -921686486577707093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 117
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0899dbf921205f6d0800000000000000
+      internalID: -2957455301286192768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 8051
+        y: 122
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08da7d2cb98298000800000000000000
+      internalID: 38606721263316352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 8697
+        y: 99
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83a56c84dda079c0800000000000000
+      internalID: -3931451346294299764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 10477
+        y: 91
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fabb62ab04cad90800000000000000
+      internalID: -7085216945502703715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 10716
+        y: 91
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534e7681e4c059b10800000000000000
+      internalID: 1987508340110386229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 10941
+        y: 98
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f53f2203601e720800000000000000
+      internalID: 2873584841053658988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 11175
+        y: 107
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa9a83d6b75654d0800000000000000
+      internalID: -3146230846926972243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 11415
+        y: 107
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e477db15998f3f8c0800000000000000
+      internalID: -3966553509398218930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 14095
+        y: 104
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c68c20457ec3bf30800000000000000
+      internalID: 4590239448203822792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 14335
+        y: 104
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a568ffe434cf7900800000000000000
+      internalID: 684481400026981799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 14443
+        y: 82
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6903d2f2613506060800000000000000
+      internalID: 6944641980151181462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 14569
+        y: 104
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2333078b8d55f2d0800000000000000
+      internalID: -3245585102603603158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 14683
+        y: 56
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ce9ba8eb60c9e60800000000000000
+      internalID: 7970252855979928615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 14801
+        y: 105
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7b6d8cf33d41300800000000000000
+      internalID: 222034552553912312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 14923
+        y: 56
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41555f9dfa1f4c920800000000000000
+      internalID: 3009796188568638740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 15027
+        y: 117
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b978b503693227e70800000000000000
+      internalID: 9111384124087306139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 15163
+        y: 56
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e4181c3eff69530800000000000000
+      internalID: 3861555084185914941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 15267
+        y: 117
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ce397f7e5b34b00800000000000000
+      internalID: 811692365752560794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 15491
+        y: 122
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5143b811371be80800000000000000
+      internalID: -8164618130258913837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 16136
+        y: 99
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acec0a62624e88dd0800000000000000
+      internalID: -2483484341986865462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 17428
+        y: 97
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaecf4fcd7b90ed0800000000000000
+      internalID: -2447222762868249885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 17668
+        y: 97
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9997d0a17869e0d0800000000000000
+      internalID: -3393066007007880801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 17893
+        y: 114
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6698ae7d1208520800000000000000
+      internalID: 2702196987658856182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 18133
+        y: 114
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d979c69764218900800000000000000
+      internalID: 684868645667043798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 18350
+        y: 119
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306901de8a9a92ec0800000000000000
+      internalID: -3591152684854372861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 18617
+        y: 108
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173c931c624153f10800000000000000
+      internalID: 2248725745624531825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 18857
+        y: 108
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af57eb3fe119cd730800000000000000
+      internalID: 4025251729086772730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 75
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6fdb3a3e9530b10800000000000000
+      internalID: 1946498298193770238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 103
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e47d6f191559cf0800000000000000
+      internalID: -246200917268410786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 75
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad6fdfafca6c7040800000000000000
+      internalID: 4646706355780939183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 103
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab83eab43f70907a0800000000000000
+      internalID: -6410583853057034054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 84
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716dd63c002283a50800000000000000
+      internalID: 6500983448783410711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 84
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b50483a0cdef2910800000000000000
+      internalID: 1814930586486441394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 84
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7253cf3903e7d1f40800000000000000
+      internalID: 5700851450427225383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 9991
+        y: 84
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecf403eb68537740800000000000000
+      internalID: 5148556019408108778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 10229
+        y: 83
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0246649d067a51dc0800000000000000
+      internalID: -3668842287019432928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 17191
+        y: 84
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9011d754951b7b6f0800000000000000
+      internalID: -668871022665199351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 18381
+        y: 106
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d437802d7fe97c0800000000000000
+      internalID: -4062537332384641767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 77
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64d92de324b5ea90800000000000000
+      internalID: -7285218755806112658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 77
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87e1d38e1239bbf0800000000000000
+      internalID: -308159992856189045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 6523
+        y: 81
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0cef54f23e4fed0800000000000000
+      internalID: -2381028510794858265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 88
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e9102de0d3deb20800000000000000
+      internalID: 3165253246973484571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 6888
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beab0bd68f049630800000000000000
+      internalID: 3932785446476295862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 7129
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666e3315175ea6310800000000000000
+      internalID: 1399182909108381286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 9015
+        y: 80
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ac0fe91194f5050800000000000000
+      internalID: 5791427985851599495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 9255
+        y: 80
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5106f7e7ad85b790800000000000000
+      internalID: -7514944650907090596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 13963
+        y: 81
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b081e2bb9352e0660800000000000000
+      internalID: 7353856171426322443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 14071
+        y: 88
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bda38d5b7405ff0800000000000000
+      internalID: -49460749558686940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 14203
+        y: 81
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d229f3816bbe6cb0800000000000000
+      internalID: -4868748119640562991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 14312
+        y: 88
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6be25e28e878620800000000000000
+      internalID: 2776344388139136759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 14567
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4225a7859ac2eb0800000000000000
+      internalID: -4743230110053554960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 16455
+        y: 80
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd9953a234f09a80800000000000000
+      internalID: -8461995201503060519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 84
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73432d85fb35e380800000000000000
+      internalID: -8942675559253326980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 84
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc82396c3bc0f8750800000000000000
+      internalID: 6309275569239566541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 13103
+        y: 85
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26ff6ba93d185040800000000000000
+      internalID: 4636487949904508460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 6776
+        y: 76
+        width: 45
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e3ff905a08b2f50800000000000000
+      internalID: 6857716303927393951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 7016
+        y: 76
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cc13f165478efd0800000000000000
+      internalID: -2312470495415382948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 14455
+        y: 76
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131972bf03880f180800000000000000
+      internalID: -9083610704452808399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 64
+        width: 53
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b554796a115d470800000000000000
+      internalID: 8418654485639158684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 63
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b1c62496a94cd10800000000000000
+      internalID: 2145009099411823495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 62
+        width: 58
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed9ab9db702c0e10800000000000000
+      internalID: 2165141237164318180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 8687
+        y: 61
+        width: 60
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb47e70e3b9cd0940800000000000000
+      internalID: 5264085313868690622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 8923
+        y: 59
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e998a2367cc00cb0800000000000000
+      internalID: -4899691586550982169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 9163
+        y: 60
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f224e5d53bb19e430800000000000000
+      internalID: 3812609016725389871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 9401
+        y: 60
+        width: 72
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e464409101993d680800000000000000
+      internalID: -8731466958123022770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 16127
+        y: 60
+        width: 60
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de65f9a6b6d6a94d0800000000000000
+      internalID: -3127066683137632531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 16363
+        y: 59
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f338d5ccb43dfd010800000000000000
+      internalID: 1215922746918011711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 16601
+        y: 60
+        width: 72
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842b48e9ba9a03d90800000000000000
+      internalID: -7120004456308755896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clip (showel)_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 16841
+        y: 60
+        width: 72
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b1959d0183d53d0800000000000000
+      internalID: -3216352913855538342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clip (showel)_sheet_0: 2155468381367167761
+      clip (showel)_sheet_1: 1439310371521744829
+      clip (showel)_sheet_10: -4928605290113970406
+      clip (showel)_sheet_100: 38606721263316352
+      clip (showel)_sheet_101: -3931451346294299764
+      clip (showel)_sheet_102: -7085216945502703715
+      clip (showel)_sheet_103: 1987508340110386229
+      clip (showel)_sheet_104: 2873584841053658988
+      clip (showel)_sheet_105: -3146230846926972243
+      clip (showel)_sheet_106: -3966553509398218930
+      clip (showel)_sheet_107: 4590239448203822792
+      clip (showel)_sheet_108: 684481400026981799
+      clip (showel)_sheet_109: 6944641980151181462
+      clip (showel)_sheet_11: -4890497874233900722
+      clip (showel)_sheet_110: -3245585102603603158
+      clip (showel)_sheet_111: 7970252855979928615
+      clip (showel)_sheet_112: 222034552553912312
+      clip (showel)_sheet_113: 3009796188568638740
+      clip (showel)_sheet_114: 9111384124087306139
+      clip (showel)_sheet_115: 3861555084185914941
+      clip (showel)_sheet_116: 811692365752560794
+      clip (showel)_sheet_117: -8164618130258913837
+      clip (showel)_sheet_118: -2483484341986865462
+      clip (showel)_sheet_119: -2447222762868249885
+      clip (showel)_sheet_12: 7894038185228870785
+      clip (showel)_sheet_120: -3393066007007880801
+      clip (showel)_sheet_121: 2702196987658856182
+      clip (showel)_sheet_122: 684868645667043798
+      clip (showel)_sheet_123: -3591152684854372861
+      clip (showel)_sheet_124: 2248725745624531825
+      clip (showel)_sheet_125: 4025251729086772730
+      clip (showel)_sheet_126: 1946498298193770238
+      clip (showel)_sheet_127: -246200917268410786
+      clip (showel)_sheet_128: 4646706355780939183
+      clip (showel)_sheet_129: -6410583853057034054
+      clip (showel)_sheet_13: -8785299163883870742
+      clip (showel)_sheet_130: 6500983448783410711
+      clip (showel)_sheet_131: 1814930586486441394
+      clip (showel)_sheet_132: 5700851450427225383
+      clip (showel)_sheet_133: 5148556019408108778
+      clip (showel)_sheet_134: -3668842287019432928
+      clip (showel)_sheet_135: -668871022665199351
+      clip (showel)_sheet_136: -4062537332384641767
+      clip (showel)_sheet_137: -7285218755806112658
+      clip (showel)_sheet_138: -308159992856189045
+      clip (showel)_sheet_139: -2381028510794858265
+      clip (showel)_sheet_14: 3155457663695179943
+      clip (showel)_sheet_140: 3165253246973484571
+      clip (showel)_sheet_141: 3932785446476295862
+      clip (showel)_sheet_142: 1399182909108381286
+      clip (showel)_sheet_143: 5791427985851599495
+      clip (showel)_sheet_144: -7514944650907090596
+      clip (showel)_sheet_145: 7353856171426322443
+      clip (showel)_sheet_146: -49460749558686940
+      clip (showel)_sheet_147: -4868748119640562991
+      clip (showel)_sheet_148: 2776344388139136759
+      clip (showel)_sheet_149: -4743230110053554960
+      clip (showel)_sheet_15: -8694007039039000677
+      clip (showel)_sheet_150: -8461995201503060519
+      clip (showel)_sheet_151: -8942675559253326980
+      clip (showel)_sheet_152: 6309275569239566541
+      clip (showel)_sheet_153: 4636487949904508460
+      clip (showel)_sheet_154: 6857716303927393951
+      clip (showel)_sheet_155: -2312470495415382948
+      clip (showel)_sheet_156: -9083610704452808399
+      clip (showel)_sheet_157: 8418654485639158684
+      clip (showel)_sheet_158: 2145009099411823495
+      clip (showel)_sheet_159: 2165141237164318180
+      clip (showel)_sheet_16: -1660040461699687819
+      clip (showel)_sheet_160: 5264085313868690622
+      clip (showel)_sheet_161: -4899691586550982169
+      clip (showel)_sheet_162: 3812609016725389871
+      clip (showel)_sheet_163: -8731466958123022770
+      clip (showel)_sheet_164: -3127066683137632531
+      clip (showel)_sheet_165: 1215922746918011711
+      clip (showel)_sheet_166: -7120004456308755896
+      clip (showel)_sheet_167: -3216352913855538342
+      clip (showel)_sheet_17: -2954488134228655644
+      clip (showel)_sheet_18: 8876808320098478187
+      clip (showel)_sheet_19: 7786870164075276546
+      clip (showel)_sheet_2: 1858834147055537106
+      clip (showel)_sheet_20: 6244197624673857455
+      clip (showel)_sheet_21: 1434927428729319239
+      clip (showel)_sheet_22: 8383316849410390695
+      clip (showel)_sheet_23: 3109310732317321463
+      clip (showel)_sheet_24: -2417720097208525156
+      clip (showel)_sheet_25: -5042214996735998638
+      clip (showel)_sheet_26: 2838269162194966233
+      clip (showel)_sheet_27: -4098916547322509142
+      clip (showel)_sheet_28: 8952770256624556127
+      clip (showel)_sheet_29: -6808618655496035197
+      clip (showel)_sheet_3: -5576582505798709267
+      clip (showel)_sheet_30: -4734111350153977362
+      clip (showel)_sheet_31: -5426436410159821023
+      clip (showel)_sheet_32: -8622192421240326860
+      clip (showel)_sheet_33: 2850228488450635067
+      clip (showel)_sheet_34: 8677286060334587853
+      clip (showel)_sheet_35: -2502709096086965064
+      clip (showel)_sheet_36: -1145549116037247794
+      clip (showel)_sheet_37: -3324165267488698143
+      clip (showel)_sheet_38: -3877132716322635397
+      clip (showel)_sheet_39: 6295398267090078180
+      clip (showel)_sheet_4: 1187153499786975205
+      clip (showel)_sheet_40: 421973938236439082
+      clip (showel)_sheet_41: -5272018714661205570
+      clip (showel)_sheet_42: 5727352279923556057
+      clip (showel)_sheet_43: 3773996904001748623
+      clip (showel)_sheet_44: 5768213417743489314
+      clip (showel)_sheet_45: -6617016044854248591
+      clip (showel)_sheet_46: -8496803278501843194
+      clip (showel)_sheet_47: -7178466995168764087
+      clip (showel)_sheet_48: -8938327852341955792
+      clip (showel)_sheet_49: -4377271655125400613
+      clip (showel)_sheet_5: 1881851388462609231
+      clip (showel)_sheet_50: -2590969321381194768
+      clip (showel)_sheet_51: -8241658162373153289
+      clip (showel)_sheet_52: -5967576519961814137
+      clip (showel)_sheet_53: -7383279993695245315
+      clip (showel)_sheet_54: -381573289081112866
+      clip (showel)_sheet_55: 3810018106715113815
+      clip (showel)_sheet_56: 4525544384392611947
+      clip (showel)_sheet_57: 7404419170959158953
+      clip (showel)_sheet_58: -8928821285604460236
+      clip (showel)_sheet_59: -5222459401888080988
+      clip (showel)_sheet_6: -7069232995276338077
+      clip (showel)_sheet_60: -2600469272546170365
+      clip (showel)_sheet_61: -1419470526935581221
+      clip (showel)_sheet_62: 2058138372039296446
+      clip (showel)_sheet_63: 1292505353980545198
+      clip (showel)_sheet_64: 6788786102234864255
+      clip (showel)_sheet_65: 7013446729494647446
+      clip (showel)_sheet_66: 3346846211434143280
+      clip (showel)_sheet_67: -3851079073626328673
+      clip (showel)_sheet_68: 5075878429261464803
+      clip (showel)_sheet_69: -3322837386432224913
+      clip (showel)_sheet_7: 6942450056243249840
+      clip (showel)_sheet_70: 8659734898083345548
+      clip (showel)_sheet_71: -8394117275747313661
+      clip (showel)_sheet_72: -1097922609923985332
+      clip (showel)_sheet_73: -3242794760912082358
+      clip (showel)_sheet_74: -2140253270601238229
+      clip (showel)_sheet_75: 1979625539492458502
+      clip (showel)_sheet_76: -4438911229190180174
+      clip (showel)_sheet_77: 3589047964204306767
+      clip (showel)_sheet_78: 4210726882420150323
+      clip (showel)_sheet_79: 444128174809072103
+      clip (showel)_sheet_8: 8769625958532744780
+      clip (showel)_sheet_80: -7212542860137569509
+      clip (showel)_sheet_81: -7200505978452159376
+      clip (showel)_sheet_82: 7731831094736564962
+      clip (showel)_sheet_83: 5446543028244371315
+      clip (showel)_sheet_84: 3734406372881053566
+      clip (showel)_sheet_85: 443652072346142433
+      clip (showel)_sheet_86: -7540562400333064633
+      clip (showel)_sheet_87: 1856595161841189044
+      clip (showel)_sheet_88: -7551392563667407780
+      clip (showel)_sheet_89: 8738090556940084959
+      clip (showel)_sheet_9: -8246198002518201592
+      clip (showel)_sheet_90: 4439898873235925645
+      clip (showel)_sheet_91: -8631413620427225520
+      clip (showel)_sheet_92: 1659326351760874412
+      clip (showel)_sheet_93: -8535135013365268379
+      clip (showel)_sheet_94: -2058172799595764172
+      clip (showel)_sheet_95: 6946744345886664964
+      clip (showel)_sheet_96: 7831517868177684042
+      clip (showel)_sheet_97: -5684847036857744109
+      clip (showel)_sheet_98: -921686486577707093
+      clip (showel)_sheet_99: -2957455301286192768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
